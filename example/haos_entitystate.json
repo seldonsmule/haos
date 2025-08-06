@@ -1,0 +1,27 @@
+{
+  "entity_id": "update.home_assistant_supervisor_update",
+  "state": "off",
+  "attributes": {
+    "auto_update": true,
+    "display_precision": 0,
+    "installed_version": "2025.07.3",
+    "in_progress": false,
+    "latest_version": "2025.07.3",
+    "release_summary": null,
+    "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2025.07.3",
+    "skipped_version": null,
+    "title": "Home Assistant Supervisor",
+    "update_percentage": null,
+    "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+    "friendly_name": "Home Assistant Supervisor Update",
+    "supported_features": 1
+  },
+  "last_changed": "2025-07-28T20:34:18.492341+00:00",
+  "last_reported": "2025-08-04T11:05:44.845114+00:00",
+  "last_updated": "2025-08-04T11:05:44.845114+00:00",
+  "context": {
+    "id": "01K1TC4GMD837H8GDNPT6ZTWXX",
+    "parent_id": null,
+    "user_id": null
+  }
+}

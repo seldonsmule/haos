@@ -1,0 +1,5558 @@
+[
+  {
+    "entity_id": "update.home_assistant_supervisor_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": true,
+      "display_precision": 0,
+      "installed_version": "2025.07.3",
+      "in_progress": false,
+      "latest_version": "2025.07.3",
+      "release_summary": null,
+      "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2025.07.3",
+      "skipped_version": null,
+      "title": "Home Assistant Supervisor",
+      "update_percentage": null,
+      "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+      "friendly_name": "Home Assistant Supervisor Update",
+      "supported_features": 1
+    },
+    "last_changed": "2025-07-28T20:34:18.492341+00:00",
+    "last_reported": "2025-08-04T11:05:44.845114+00:00",
+    "last_updated": "2025-08-04T11:05:44.845114+00:00",
+    "context": {
+      "id": "01K1TC4GMD837H8GDNPT6ZTWXX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.home_assistant_core_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "2025.7.4",
+      "in_progress": false,
+      "latest_version": "2025.7.4",
+      "release_summary": null,
+      "release_url": "https://www.home-assistant.io/latest-release-notes/",
+      "skipped_version": null,
+      "title": "Home Assistant Core",
+      "update_percentage": null,
+      "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+      "friendly_name": "Home Assistant Core Update",
+      "supported_features": 11
+    },
+    "last_changed": "2025-07-28T18:14:18.548064+00:00",
+    "last_reported": "2025-07-28T18:14:18.548064+00:00",
+    "last_updated": "2025-07-28T18:14:18.548064+00:00",
+    "context": {
+      "id": "01K193W6NM1PD5EMJYW4621QQD",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.matter_server_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": true,
+      "display_precision": 0,
+      "installed_version": "8.0.0",
+      "in_progress": false,
+      "latest_version": "8.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": "Matter Server",
+      "update_percentage": null,
+      "entity_picture": "/api/hassio/addons/core_matter_server/icon",
+      "friendly_name": "Matter Server Update",
+      "supported_features": 25
+    },
+    "last_changed": "2025-07-28T18:14:18.548196+00:00",
+    "last_reported": "2025-07-28T18:14:18.548196+00:00",
+    "last_updated": "2025-07-28T18:14:18.548196+00:00",
+    "context": {
+      "id": "01K193W6NM0A9XYQ0M3TV7HB0S",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.file_editor_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": true,
+      "display_precision": 0,
+      "installed_version": "5.8.0",
+      "in_progress": false,
+      "latest_version": "5.8.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": "File editor",
+      "update_percentage": null,
+      "entity_picture": "/api/hassio/addons/core_configurator/icon",
+      "friendly_name": "File editor Update",
+      "supported_features": 25
+    },
+    "last_changed": "2025-07-28T18:14:18.548328+00:00",
+    "last_reported": "2025-07-28T18:14:18.548328+00:00",
+    "last_updated": "2025-07-28T18:14:18.548328+00:00",
+    "context": {
+      "id": "01K193W6NMZNE8C8AD9TSPVPM6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.tailscale_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": true,
+      "display_precision": 0,
+      "installed_version": "0.25.0",
+      "in_progress": false,
+      "latest_version": "0.25.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": "Tailscale",
+      "update_percentage": null,
+      "entity_picture": "/api/hassio/addons/a0d7b954_tailscale/icon",
+      "friendly_name": "Tailscale Update",
+      "supported_features": 25
+    },
+    "last_changed": "2025-07-28T18:14:18.548432+00:00",
+    "last_reported": "2025-07-28T18:14:18.548432+00:00",
+    "last_updated": "2025-07-28T18:14:18.548432+00:00",
+    "context": {
+      "id": "01K193W6NMJMWZCGZF42HAF1G1",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.terminal_ssh_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": true,
+      "display_precision": 0,
+      "installed_version": "9.18.0",
+      "in_progress": false,
+      "latest_version": "9.18.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": "Terminal & SSH",
+      "update_percentage": null,
+      "entity_picture": "/api/hassio/addons/core_ssh/icon",
+      "friendly_name": "Terminal & SSH Update",
+      "supported_features": 25
+    },
+    "last_changed": "2025-07-28T18:14:18.548530+00:00",
+    "last_reported": "2025-07-28T18:14:18.548530+00:00",
+    "last_updated": "2025-07-28T18:14:18.548530+00:00",
+    "context": {
+      "id": "01K193W6NMP5GMVJGASQA5N1Q3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.home_assistant_operating_system_update",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "16.0",
+      "in_progress": false,
+      "latest_version": "16.0",
+      "release_summary": null,
+      "release_url": "https://github.com/home-assistant/operating-system/releases/tag/16.0",
+      "skipped_version": null,
+      "title": "Home Assistant Operating System",
+      "update_percentage": null,
+      "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+      "friendly_name": "Home Assistant Operating System Update",
+      "supported_features": 11
+    },
+    "last_changed": "2025-07-28T18:14:18.548660+00:00",
+    "last_reported": "2025-07-28T18:14:18.548660+00:00",
+    "last_updated": "2025-07-28T18:14:18.548660+00:00",
+    "context": {
+      "id": "01K193W6NMXDNYSHKKVPHZA61G",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "conversation.home_assistant",
+    "state": "2025-07-09T01:08:42.727470+00:00",
+    "attributes": {
+      "friendly_name": "Home Assistant",
+      "supported_features": 1
+    },
+    "last_changed": "2025-07-28T18:14:19.209338+00:00",
+    "last_reported": "2025-07-28T18:14:19.209338+00:00",
+    "last_updated": "2025-07-28T18:14:19.209338+00:00",
+    "context": {
+      "id": "01K193W7A9AAW669BPTYYJZEFS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "event.backup_automatic_backup",
+    "state": "2025-08-05T08:54:27.742+00:00",
+    "attributes": {
+      "event_types": [
+        "completed",
+        "failed",
+        "in_progress"
+      ],
+      "event_type": "completed",
+      "backup_stage": null,
+      "failed_reason": null,
+      "friendly_name": "Backup Automatic backup"
+    },
+    "last_changed": "2025-08-05T08:54:27.742570+00:00",
+    "last_reported": "2025-08-05T08:54:27.742570+00:00",
+    "last_updated": "2025-08-05T08:54:27.742570+00:00",
+    "context": {
+      "id": "01K1WQ0V4Y1SSXDHN5QCBS81D3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.backup_backup_manager_state",
+    "state": "idle",
+    "attributes": {
+      "options": [
+        "idle",
+        "create_backup",
+        "blocked",
+        "receive_backup",
+        "restore_backup"
+      ],
+      "device_class": "enum",
+      "friendly_name": "Backup Backup Manager state"
+    },
+    "last_changed": "2025-08-05T08:54:27.742692+00:00",
+    "last_reported": "2025-08-05T08:54:27.742692+00:00",
+    "last_updated": "2025-08-05T08:54:27.742692+00:00",
+    "context": {
+      "id": "01K1WQ0V4Y54ZH2G63C7RK0Z37",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.backup_next_scheduled_automatic_backup",
+    "state": "2025-08-06T09:17:31+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Backup Next scheduled automatic backup"
+    },
+    "last_changed": "2025-08-05T08:54:27.405984+00:00",
+    "last_reported": "2025-08-05T08:54:27.742705+00:00",
+    "last_updated": "2025-08-05T08:54:27.405984+00:00",
+    "context": {
+      "id": "01K1WQ0TTD4ZE47P1DFDVWDP7B",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.backup_last_successful_automatic_backup",
+    "state": "2025-08-05T08:54:27+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Backup Last successful automatic backup"
+    },
+    "last_changed": "2025-08-05T08:54:27.742656+00:00",
+    "last_reported": "2025-08-05T08:54:27.742713+00:00",
+    "last_updated": "2025-08-05T08:54:27.742656+00:00",
+    "context": {
+      "id": "01K1WQ0V4YWBR4SG1K4VB5DYPF",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.backup_last_attempted_automatic_backup",
+    "state": "2025-08-05T08:54:27+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Backup Last attempted automatic backup"
+    },
+    "last_changed": "2025-08-05T08:54:27.406123+00:00",
+    "last_reported": "2025-08-05T08:54:27.742720+00:00",
+    "last_updated": "2025-08-05T08:54:27.406123+00:00",
+    "context": {
+      "id": "01K1WQ0TTEVSWZ1TM00WF0224N",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "zone.home",
+    "state": "0",
+    "attributes": {
+      "latitude": 26.472356,
+      "longitude": -81.954404,
+      "radius": 100,
+      "passive": false,
+      "persons": [],
+      "editable": true,
+      "icon": "mdi:home",
+      "friendly_name": "Home"
+    },
+    "last_changed": "2025-08-05T10:53:16.015630+00:00",
+    "last_reported": "2025-08-05T10:53:16.015630+00:00",
+    "last_updated": "2025-08-05T10:53:16.015630+00:00",
+    "context": {
+      "id": "01K1WXTCBFWH092NH9HBM82SBT",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "person.homeassist",
+    "state": "not_home",
+    "attributes": {
+      "editable": true,
+      "id": "homeassist",
+      "device_trackers": [
+        "device_tracker.sirsmartpig2023"
+      ],
+      "latitude": 26.552898064724427,
+      "longitude": -82.00437987631906,
+      "gps_accuracy": 16,
+      "source": "device_tracker.sirsmartpig2023",
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26",
+      "friendly_name": "homeassist"
+    },
+    "last_changed": "2025-08-05T10:53:16.015460+00:00",
+    "last_reported": "2025-08-05T10:53:16.015460+00:00",
+    "last_updated": "2025-08-05T10:53:16.015460+00:00",
+    "context": {
+      "id": "01K1WXTCBFPE76XSKDTDXJ1BT9",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "input_boolean.holloween",
+    "state": "off",
+    "attributes": {
+      "editable": false,
+      "friendly_name": "On if Holloween"
+    },
+    "last_changed": "2025-07-28T18:14:19.578648+00:00",
+    "last_reported": "2025-07-28T18:14:19.578648+00:00",
+    "last_updated": "2025-07-28T18:14:19.578648+00:00",
+    "context": {
+      "id": "01K193W7NTX4E90TN605XAKPF0",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sun.sun",
+    "state": "above_horizon",
+    "attributes": {
+      "next_dawn": "2025-08-06T10:30:48.714983+00:00",
+      "next_dusk": "2025-08-06T00:36:56.010573+00:00",
+      "next_midnight": "2025-08-06T05:33:40+00:00",
+      "next_noon": "2025-08-06T17:33:45+00:00",
+      "next_rising": "2025-08-06T10:55:56.050079+00:00",
+      "next_setting": "2025-08-06T00:11:48.897026+00:00",
+      "elevation": 31.16,
+      "azimuth": 274.27,
+      "rising": false,
+      "friendly_name": "Sun"
+    },
+    "last_changed": "2025-08-05T10:54:15.689314+00:00",
+    "last_reported": "2025-08-05T21:45:57.210654+00:00",
+    "last_updated": "2025-08-05T21:45:52.450885+00:00",
+    "context": {
+      "id": "01K1Y35B22B5ZATXD9D5Q0MVHY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_dawn",
+    "state": "2025-08-06T10:30:48+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next dawn"
+    },
+    "last_changed": "2025-08-05T10:30:15.600464+00:00",
+    "last_reported": "2025-08-05T10:30:15.600464+00:00",
+    "last_updated": "2025-08-05T10:30:15.600464+00:00",
+    "context": {
+      "id": "01K1WWG89GKQCCDD4QXGGX7VZ8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_dusk",
+    "state": "2025-08-06T00:36:56+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next dusk"
+    },
+    "last_changed": "2025-08-05T00:37:41.981291+00:00",
+    "last_reported": "2025-08-05T00:37:41.981291+00:00",
+    "last_updated": "2025-08-05T00:37:41.981291+00:00",
+    "context": {
+      "id": "01K1VTK7YXHNY24HCC723YQEH9",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_midnight",
+    "state": "2025-08-06T05:33:40+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next midnight"
+    },
+    "last_changed": "2025-08-05T05:35:11.064661+00:00",
+    "last_reported": "2025-08-05T05:35:11.064661+00:00",
+    "last_updated": "2025-08-05T05:35:11.064661+00:00",
+    "context": {
+      "id": "01K1WBKYPRMGGGQPAHBPTS9Z20",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_noon",
+    "state": "2025-08-06T17:33:45+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next noon"
+    },
+    "last_changed": "2025-08-05T17:33:52.020396+00:00",
+    "last_reported": "2025-08-05T17:33:52.020396+00:00",
+    "last_updated": "2025-08-05T17:33:52.020396+00:00",
+    "context": {
+      "id": "01K1XMQX0M4BT3KX2EZAQQJ9PQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_rising",
+    "state": "2025-08-06T10:55:56+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next rising"
+    },
+    "last_changed": "2025-08-05T10:55:26.049115+00:00",
+    "last_reported": "2025-08-05T10:55:26.049115+00:00",
+    "last_updated": "2025-08-05T10:55:26.049115+00:00",
+    "context": {
+      "id": "01K1WXYBB1N26D65DS88NJW4WK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sun_next_setting",
+    "state": "2025-08-06T00:11:48+00:00",
+    "attributes": {
+      "device_class": "timestamp",
+      "friendly_name": "Sun Next setting"
+    },
+    "last_changed": "2025-08-05T00:12:31.724387+00:00",
+    "last_reported": "2025-08-05T00:12:31.724387+00:00",
+    "last_updated": "2025-08-05T00:12:31.724387+00:00",
+    "context": {
+      "id": "01K1VS553CDQJGJ6DYJNHXFB6H",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.tapo_test_switch_firmware",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Garage Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.299063+00:00",
+    "last_reported": "2025-07-28T18:14:21.299063+00:00",
+    "last_updated": "2025-07-28T18:14:21.299063+00:00",
+    "context": {
+      "id": "01K193W9BKGARFVXAWE784ECSK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_garage",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Garage Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T18:06:23.965227+00:00",
+    "last_reported": "2025-08-04T18:06:23.965227+00:00",
+    "last_updated": "2025-08-04T18:06:23.965227+00:00",
+    "context": {
+      "id": "01K1V46R6X1QP5BBGBVJBJW58M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.tapo_test_switch_power_on_behavior_on_startup",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Garage Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.299743+00:00",
+    "last_reported": "2025-07-28T18:14:21.299743+00:00",
+    "last_updated": "2025-07-28T18:14:21.299743+00:00",
+    "context": {
+      "id": "01K193W9BK6NBVJF14Z52PGS6Z",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Flood Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-30T19:13:26.516014+00:00",
+    "last_reported": "2025-07-30T19:13:27.510240+00:00",
+    "last_updated": "2025-07-30T19:13:27.509768+00:00",
+    "context": {
+      "id": "01K1EC1YEN9HCW974TGTEQD5AA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Flood Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-30T19:13:26.516310+00:00",
+    "last_reported": "2025-07-30T19:13:26.516310+00:00",
+    "last_updated": "2025-07-30T19:13:26.516310+00:00",
+    "context": {
+      "id": "01K1EC1XFM2Q39A955VXVGRHT2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_2",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Front Carriage Lights Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.301634+00:00",
+    "last_reported": "2025-07-28T18:14:21.301634+00:00",
+    "last_updated": "2025-07-28T18:14:21.301634+00:00",
+    "context": {
+      "id": "01K193W9BNT2G1A7MVXBARHTFC",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_2",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Front Carriage Lights Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.302169+00:00",
+    "last_reported": "2025-07-28T18:14:21.302169+00:00",
+    "last_updated": "2025-07-28T18:14:21.302169+00:00",
+    "context": {
+      "id": "01K193W9BP51N7ZFH7HRSASMS4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": true,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Entry Main Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.303020+00:00",
+    "last_reported": "2025-07-28T18:14:21.303020+00:00",
+    "last_updated": "2025-07-28T18:14:21.303020+00:00",
+    "context": {
+      "id": "01K193W9BQ0AY55VK1340M0TT4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Entry Main Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.303473+00:00",
+    "last_reported": "2025-07-28T18:14:21.303473+00:00",
+    "last_updated": "2025-07-28T18:14:21.303473+00:00",
+    "context": {
+      "id": "01K193W9BQVX5QF16G5HSE6YSJ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_2",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Chandelier Entry Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.304156+00:00",
+    "last_reported": "2025-07-28T18:14:21.304156+00:00",
+    "last_updated": "2025-07-28T18:14:21.304156+00:00",
+    "context": {
+      "id": "01K193W9BRRFHDY4RVXWRTNJ1W",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_2",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Chandelier Entry Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.304622+00:00",
+    "last_reported": "2025-07-28T18:14:21.304622+00:00",
+    "last_updated": "2025-07-28T18:14:21.304622+00:00",
+    "context": {
+      "id": "01K193W9BRF4M1JR8YMR1RP65G",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_3",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Lanai Ceiling Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:31:13.967844+00:00",
+    "last_reported": "2025-07-29T17:31:13.967844+00:00",
+    "last_updated": "2025-07-29T17:31:13.967844+00:00",
+    "context": {
+      "id": "01K1BKT1NFWWC8M529FN53MNVK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_3",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Lanai Ceiling Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:31:13.968172+00:00",
+    "last_reported": "2025-07-29T17:31:13.968172+00:00",
+    "last_updated": "2025-07-29T17:31:13.968172+00:00",
+    "context": {
+      "id": "01K1BKT1NGHHDM6X55R7BGAVV2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_4",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Backyard Carriage Lights Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:31:13.973747+00:00",
+    "last_reported": "2025-08-01T19:18:41.568452+00:00",
+    "last_updated": "2025-08-01T19:18:41.568452+00:00",
+    "context": {
+      "id": "01K1KH4Z50QAA6TMVHAWGJ9SGG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_4",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Backyard Carriage Lights Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:31:13.973914+00:00",
+    "last_reported": "2025-08-01T19:18:41.569418+00:00",
+    "last_updated": "2025-08-01T19:18:41.569418+00:00",
+    "context": {
+      "id": "01K1KH4Z51M2BN4W001GDB83KN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_5",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Rear Left Entry Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:31:29.366587+00:00",
+    "last_reported": "2025-07-29T17:33:20.931282+00:00",
+    "last_updated": "2025-07-29T17:33:20.931282+00:00",
+    "context": {
+      "id": "01K1BKXXN3WWGZ9TGA079VM5PB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_5",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Rear Left Entry Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:31:29.366817+00:00",
+    "last_reported": "2025-07-29T17:33:20.931806+00:00",
+    "last_updated": "2025-07-29T17:33:20.931806+00:00",
+    "context": {
+      "id": "01K1BKXXN328763JW1HG32XS7E",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_6",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Rear Right Entry Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:31:28.549419+00:00",
+    "last_reported": "2025-07-29T17:33:02.947733+00:00",
+    "last_updated": "2025-07-29T17:33:02.947733+00:00",
+    "context": {
+      "id": "01K1BKXC33Y524FAEPVBMPR3C6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_6",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Rear Right Entry Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:31:28.549649+00:00",
+    "last_reported": "2025-07-29T17:33:02.948221+00:00",
+    "last_updated": "2025-07-29T17:33:02.948221+00:00",
+    "context": {
+      "id": "01K1BKXC346JXYF58S2NFVNZ4P",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_3",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Garage Kristi Room Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:31:02.348393+00:00",
+    "last_reported": "2025-07-29T17:31:03.343352+00:00",
+    "last_updated": "2025-07-29T17:31:03.342864+00:00",
+    "context": {
+      "id": "01K1BKSQ9EKTGEA1FSWGWJJ47Y",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_3",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Garage Kristi Room Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:31:02.348625+00:00",
+    "last_reported": "2025-07-29T17:31:02.348625+00:00",
+    "last_updated": "2025-07-29T17:31:02.348625+00:00",
+    "context": {
+      "id": "01K1BKSPACDT6H79MZ0T6AGH6V",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_4",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Garage ScubaRoom Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-29T17:32:20.149681+00:00",
+    "last_reported": "2025-07-29T17:32:20.149681+00:00",
+    "last_updated": "2025-07-29T17:32:20.149681+00:00",
+    "context": {
+      "id": "01K1BKW29N4HHEMT3VSQJ3F8AH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_4",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Garage ScubaRoom Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-29T17:32:20.149955+00:00",
+    "last_reported": "2025-07-29T17:32:20.149955+00:00",
+    "last_updated": "2025-07-29T17:32:20.149955+00:00",
+    "context": {
+      "id": "01K1BKW29NYS6PTZS072Z1WQKF",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_5",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Patio1 SW Lights Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-30T19:13:26.316497+00:00",
+    "last_reported": "2025-07-30T19:13:27.674922+00:00",
+    "last_updated": "2025-07-30T19:13:27.674517+00:00",
+    "context": {
+      "id": "01K1EC1YKT0RSY1KSXVR4K7C6A",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_5",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Patio1 SW Lights Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-30T19:13:26.316744+00:00",
+    "last_reported": "2025-07-30T19:13:26.316744+00:00",
+    "last_updated": "2025-07-30T19:13:26.316744+00:00",
+    "context": {
+      "id": "01K1EC1X9C7T66STZNSN1YP7QY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_6",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Kitchen Counter Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-31T14:20:11.006769+00:00",
+    "last_reported": "2025-07-31T14:20:11.006769+00:00",
+    "last_updated": "2025-07-31T14:20:11.006769+00:00",
+    "context": {
+      "id": "01K1GDNNBYFG3N8EDJ1VNDDGBN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_6",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Kitchen Counter Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-31T14:20:11.006925+00:00",
+    "last_reported": "2025-07-31T14:20:11.006925+00:00",
+    "last_updated": "2025-07-31T14:20:11.006925+00:00",
+    "context": {
+      "id": "01K1GDNNBYN57CZFGP98MAWPDQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_7",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Kitchen Main Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-31T14:19:56.090365+00:00",
+    "last_reported": "2025-07-31T14:20:09.221332+00:00",
+    "last_updated": "2025-07-31T14:20:09.220702+00:00",
+    "context": {
+      "id": "01K1GDNKM4JTR4MZVSWGQA8M3A",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_7",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Kitchen Main Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-31T14:19:56.092792+00:00",
+    "last_reported": "2025-07-31T14:19:56.092792+00:00",
+    "last_updated": "2025-07-31T14:19:56.092792+00:00",
+    "context": {
+      "id": "01K1GDN6SWFSBSK314VWP0AHBM",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_8",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Kitchen Island Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-31T14:20:10.506580+00:00",
+    "last_reported": "2025-07-31T14:20:10.506580+00:00",
+    "last_updated": "2025-07-31T14:20:10.506580+00:00",
+    "context": {
+      "id": "01K1GDNMWA1REBKXYF8TB84GB7",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_8",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Kitchen Island Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-31T14:20:10.506789+00:00",
+    "last_reported": "2025-07-31T14:20:10.506789+00:00",
+    "last_updated": "2025-07-31T14:20:10.506789+00:00",
+    "context": {
+      "id": "01K1GDNMWA7WHHD09ERPEY11FV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_9",
+    "state": "unavailable",
+    "attributes": {
+      "device_class": "firmware",
+      "friendly_name": "Tapo 3way7 Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.316491+00:00",
+    "last_reported": "2025-07-28T18:14:21.316491+00:00",
+    "last_updated": "2025-07-28T18:14:21.316491+00:00",
+    "context": {
+      "id": "01K193W9C4JN9JNMTNQEBBH8EV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.smart_switch_single_pole_3_way_9",
+    "state": "unavailable",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "friendly_name": "Tapo 3way7",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:21.316780+00:00",
+    "last_reported": "2025-07-28T18:14:21.316780+00:00",
+    "last_updated": "2025-07-28T18:14:21.316780+00:00",
+    "context": {
+      "id": "01K193W9C42R76ZN0A78VE3EWH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_9",
+    "state": "unavailable",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Tapo 3way7 Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.317210+00:00",
+    "last_reported": "2025-07-28T18:14:21.317210+00:00",
+    "last_updated": "2025-07-28T18:14:21.317210+00:00",
+    "context": {
+      "id": "01K193W9C583XEDMM1TCB6P1A2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_switch_single_pole_3_way_firmware_10",
+    "state": "unavailable",
+    "attributes": {
+      "device_class": "firmware",
+      "friendly_name": "Tapo 3way8 Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-28T18:14:21.317935+00:00",
+    "last_reported": "2025-07-28T18:14:21.317935+00:00",
+    "last_updated": "2025-07-28T18:14:21.317935+00:00",
+    "context": {
+      "id": "01K193W9C52WE3C6JCV359RB9G",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.smart_switch_single_pole_3_way_10",
+    "state": "unavailable",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "friendly_name": "Tapo 3way8",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:21.318197+00:00",
+    "last_reported": "2025-07-28T18:14:21.318197+00:00",
+    "last_updated": "2025-07-28T18:14:21.318197+00:00",
+    "context": {
+      "id": "01K193W9C6WNAD69ZPX63YFMQ4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_switch_single_pole_3_way_power_on_behavior_on_startup_10",
+    "state": "unavailable",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Tapo 3way8 Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-28T18:14:21.318362+00:00",
+    "last_reported": "2025-07-28T18:14:21.318362+00:00",
+    "last_updated": "2025-07-28T18:14:21.318362+00:00",
+    "context": {
+      "id": "01K193W9C6K2TEAGET7N192GCG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.pentair_21_06_fc_pool_chlorinator_setpoint",
+    "state": "50",
+    "attributes": {
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "mode": "auto",
+      "unit_of_measurement": "%",
+      "friendly_name": "Pentair: 21-06-FC Pool chlorinator setpoint"
+    },
+    "last_changed": "2025-07-28T18:14:22.945106+00:00",
+    "last_reported": "2025-07-28T18:14:22.945106+00:00",
+    "last_updated": "2025-07-28T18:14:22.945106+00:00",
+    "context": {
+      "id": "01K193WAZ1QTE704AS7BKW84R8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.pentair_21_06_fc_spa_chlorinator_setpoint",
+    "state": "0",
+    "attributes": {
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "mode": "auto",
+      "unit_of_measurement": "%",
+      "friendly_name": "Pentair: 21-06-FC Spa chlorinator setpoint"
+    },
+    "last_changed": "2025-07-28T18:14:22.945225+00:00",
+    "last_reported": "2025-07-28T18:14:22.945225+00:00",
+    "last_updated": "2025-07-28T18:14:22.945225+00:00",
+    "context": {
+      "id": "01K193WAZ1S6RWSXMB0P6SA9WE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_active_alert",
+    "state": "off",
+    "attributes": {
+      "device_class": "problem",
+      "friendly_name": "Pentair: 21-06-FC Active alert"
+    },
+    "last_changed": "2025-08-05T20:48:11.701422+00:00",
+    "last_reported": "2025-08-05T20:48:11.701422+00:00",
+    "last_updated": "2025-08-05T20:48:11.701422+00:00",
+    "context": {
+      "id": "01K1XZVQDNJD5TGF3V5A9RVQ2V",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_cleaner_delay",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Cleaner delay"
+    },
+    "last_changed": "2025-07-28T18:14:22.950279+00:00",
+    "last_reported": "2025-07-28T18:14:22.950279+00:00",
+    "last_updated": "2025-07-28T18:14:22.950279+00:00",
+    "context": {
+      "id": "01K193WAZ6MPYM1AMGW2GB0JPN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_freeze_mode",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Freeze mode"
+    },
+    "last_changed": "2025-07-28T18:14:22.950366+00:00",
+    "last_reported": "2025-07-28T18:14:22.950366+00:00",
+    "last_updated": "2025-07-28T18:14:22.950366+00:00",
+    "context": {
+      "id": "01K193WAZ6FMVEW6MBW6TAKWJE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_pool_delay",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Pool delay"
+    },
+    "last_changed": "2025-07-28T18:14:22.950434+00:00",
+    "last_reported": "2025-07-28T18:14:22.950434+00:00",
+    "last_updated": "2025-07-28T18:14:22.950434+00:00",
+    "context": {
+      "id": "01K193WAZ6BZ51DG2GFJZ11WQ6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_spa_delay",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Spa delay"
+    },
+    "last_changed": "2025-07-28T18:14:22.950498+00:00",
+    "last_reported": "2025-07-28T18:14:22.950498+00:00",
+    "last_updated": "2025-07-28T18:14:22.950498+00:00",
+    "context": {
+      "id": "01K193WAZ632X4XA6TQ7VD5343",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_pool_pump",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Pool Pump"
+    },
+    "last_changed": "2025-07-28T18:14:22.950581+00:00",
+    "last_reported": "2025-07-28T18:14:22.950581+00:00",
+    "last_updated": "2025-07-28T18:14:22.950581+00:00",
+    "context": {
+      "id": "01K193WAZ6ZF2Y139XGJMWBYS8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.pentair_21_06_fc_chlorinator",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Chlorinator"
+    },
+    "last_changed": "2025-07-28T18:14:22.950663+00:00",
+    "last_reported": "2025-07-28T18:14:22.950663+00:00",
+    "last_updated": "2025-07-28T18:14:22.950663+00:00",
+    "context": {
+      "id": "01K193WAZ69E3MZ7Y5VFFH4ZWM",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "climate.pentair_21_06_fc_pool_heat",
+    "state": "off",
+    "attributes": {
+      "hvac_modes": [
+        "off",
+        "heat"
+      ],
+      "min_temp": 40,
+      "max_temp": 104,
+      "preset_modes": [
+        "heater"
+      ],
+      "current_temperature": 89,
+      "temperature": 88,
+      "hvac_action": "off",
+      "preset_mode": "heater",
+      "friendly_name": "Pentair: 21-06-FC Pool heat",
+      "supported_features": 401
+    },
+    "last_changed": "2025-07-28T18:14:22.950909+00:00",
+    "last_reported": "2025-08-05T19:24:59.756320+00:00",
+    "last_updated": "2025-08-05T19:24:59.756320+00:00",
+    "context": {
+      "id": "01K1XV3CFC140Z214FN0BY253S",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "climate.pentair_21_06_fc_spa_heat",
+    "state": "off",
+    "attributes": {
+      "hvac_modes": [
+        "off",
+        "heat"
+      ],
+      "min_temp": 40,
+      "max_temp": 104,
+      "preset_modes": [
+        "heater"
+      ],
+      "current_temperature": 87,
+      "temperature": 100,
+      "hvac_action": "off",
+      "preset_mode": "heater",
+      "friendly_name": "Pentair: 21-06-FC Spa heat",
+      "supported_features": 401
+    },
+    "last_changed": "2025-07-28T18:14:22.951090+00:00",
+    "last_reported": "2025-07-28T18:14:22.951090+00:00",
+    "last_updated": "2025-07-28T18:14:22.951090+00:00",
+    "context": {
+      "id": "01K193WAZ703WVNYWA7KK53RVH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.pentair_21_06_fc_lights",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Pentair: 21-06-FC Lights",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T01:33:28.831622+00:00",
+    "last_reported": "2025-08-05T01:33:28.935168+00:00",
+    "last_updated": "2025-08-05T01:33:28.831622+00:00",
+    "context": {
+      "id": "01K1VXSCA4R3P1Y3CTM1HZJBGE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_air_temperature",
+    "state": "90",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "friendly_name": "Pentair: 21-06-FC Air temperature"
+    },
+    "last_changed": "2025-08-05T21:32:00.193323+00:00",
+    "last_reported": "2025-08-05T21:32:00.193323+00:00",
+    "last_updated": "2025-08-05T21:32:00.193323+00:00",
+    "context": {
+      "id": "01K1Y2BYA1SZMZ8FTBQFZFYEH2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_controller_state",
+    "state": "ready",
+    "attributes": {
+      "options": [
+        "ready",
+        "sync",
+        "service"
+      ],
+      "device_class": "enum",
+      "friendly_name": "Pentair: 21-06-FC Controller state"
+    },
+    "last_changed": "2025-08-03T23:07:34.890183+00:00",
+    "last_reported": "2025-08-03T23:07:34.890183+00:00",
+    "last_updated": "2025-08-03T23:07:34.890183+00:00",
+    "context": {
+      "id": "01K1S31GKAJPKR6RB11RK2A1RV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_pool_pump_watts_now",
+    "state": "0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "W",
+      "device_class": "power",
+      "friendly_name": "Pentair: 21-06-FC Pool Pump Watts Now"
+    },
+    "last_changed": "2025-08-05T20:47:50.059174+00:00",
+    "last_reported": "2025-08-05T20:47:50.059174+00:00",
+    "last_updated": "2025-08-05T20:47:50.059174+00:00",
+    "context": {
+      "id": "01K1XZV29BB7362D2TEV671ASG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_pool_pump_gpm_now",
+    "state": "0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "gpm",
+      "friendly_name": "Pentair: 21-06-FC Pool Pump GPM Now"
+    },
+    "last_changed": "2025-08-05T20:47:50.059478+00:00",
+    "last_reported": "2025-08-05T20:47:50.059478+00:00",
+    "last_updated": "2025-08-05T20:47:50.059478+00:00",
+    "context": {
+      "id": "01K1XZV29BEJ31FK9X1YQRY4BF",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_pool_pump_rpm_now",
+    "state": "0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "rpm",
+      "friendly_name": "Pentair: 21-06-FC Pool Pump RPM Now"
+    },
+    "last_changed": "2025-08-05T20:47:50.059831+00:00",
+    "last_reported": "2025-08-05T20:47:50.059831+00:00",
+    "last_updated": "2025-08-05T20:47:50.059831+00:00",
+    "context": {
+      "id": "01K1XZV29BKXTFG13YKDPX6HDT",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_chlorinator_salt",
+    "state": "0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "ppm",
+      "friendly_name": "Pentair: 21-06-FC Chlorinator salt"
+    },
+    "last_changed": "2025-07-28T18:14:22.951936+00:00",
+    "last_reported": "2025-07-28T18:14:22.951936+00:00",
+    "last_updated": "2025-07-28T18:14:22.951936+00:00",
+    "context": {
+      "id": "01K193WAZ772T5MTXM4P3ECMSK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.pentair_21_06_fc_super_chlorination_timer",
+    "state": "0",
+    "attributes": {
+      "unit_of_measurement": "h",
+      "friendly_name": "Pentair: 21-06-FC Super chlorination timer"
+    },
+    "last_changed": "2025-07-28T18:14:22.952005+00:00",
+    "last_reported": "2025-07-28T18:14:22.952005+00:00",
+    "last_updated": "2025-07-28T18:14:22.952005+00:00",
+    "context": {
+      "id": "01K193WAZ8FPQ81V0FQ9ER6EW3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.pentair_21_06_fc_spa",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Spa"
+    },
+    "last_changed": "2025-07-28T18:14:22.952091+00:00",
+    "last_reported": "2025-07-28T18:14:22.952091+00:00",
+    "last_updated": "2025-07-28T18:14:22.952091+00:00",
+    "context": {
+      "id": "01K193WAZ890E8R957FGDNAAKD",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.pentair_21_06_fc_air_blower",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Air Blower"
+    },
+    "last_changed": "2025-07-28T18:14:22.952196+00:00",
+    "last_reported": "2025-07-28T18:14:22.952196+00:00",
+    "last_updated": "2025-07-28T18:14:22.952196+00:00",
+    "context": {
+      "id": "01K193WAZ850CWG7BBWV2SDKWG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.pentair_21_06_fc_pool",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Pentair: 21-06-FC Pool"
+    },
+    "last_changed": "2025-08-05T20:47:26.073594+00:00",
+    "last_reported": "2025-08-05T20:47:26.073594+00:00",
+    "last_updated": "2025-08-05T20:47:26.073594+00:00",
+    "context": {
+      "id": "01K1XZTAVSF6FH668MBD5TN6G4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "device_tracker.sirsmartpig2023",
+    "state": "not_home",
+    "attributes": {
+      "source_type": "gps",
+      "battery_level": 90,
+      "latitude": 26.552898064724427,
+      "longitude": -82.00437987631906,
+      "gps_accuracy": 16,
+      "altitude": 1.9782191853619757,
+      "vertical_accuracy": 30,
+      "friendly_name": "SirSmartPig2023"
+    },
+    "last_changed": "2025-08-05T10:53:16.015220+00:00",
+    "last_reported": "2025-08-05T10:53:16.015220+00:00",
+    "last_updated": "2025-08-05T10:53:16.015220+00:00",
+    "context": {
+      "id": "01K1WXTCBFGK2QZ7BPKWJ0QT2F",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_battery_state",
+    "state": "Not Charging",
+    "attributes": {
+      "Low Power Mode": false,
+      "icon": "mdi:battery-50",
+      "friendly_name": "SirSmartPig2023 Battery State"
+    },
+    "last_changed": "2025-08-03T11:38:17.576182+00:00",
+    "last_reported": "2025-08-05T19:38:23.999879+00:00",
+    "last_updated": "2025-08-05T19:38:23.999879+00:00",
+    "context": {
+      "id": "01K1XVVXVZN0VM59D5N6ZXT7EZ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_storage",
+    "state": "unavailable",
+    "attributes": {
+      "unit_of_measurement": "% available",
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 Storage"
+    },
+    "last_changed": "2025-07-28T18:14:23.125333+00:00",
+    "last_reported": "2025-07-28T18:14:23.125333+00:00",
+    "last_updated": "2025-07-28T18:14:23.125333+00:00",
+    "context": {
+      "id": "01K193WB4NTBSB9AVMFM93S2WV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_battery_level",
+    "state": "50",
+    "attributes": {
+      "unit_of_measurement": "%",
+      "device_class": "battery",
+      "icon": "mdi:battery-50",
+      "friendly_name": "SirSmartPig2023 Battery Level"
+    },
+    "last_changed": "2025-08-05T21:17:15.381359+00:00",
+    "last_reported": "2025-08-05T21:17:15.381359+00:00",
+    "last_updated": "2025-08-05T21:17:15.381359+00:00",
+    "context": {
+      "id": "01K1Y1GY7N1JF78AC4QJW380KY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_ssid",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 SSID"
+    },
+    "last_changed": "2025-07-28T18:14:23.125683+00:00",
+    "last_reported": "2025-07-28T18:14:23.125683+00:00",
+    "last_updated": "2025-07-28T18:14:23.125683+00:00",
+    "context": {
+      "id": "01K193WB4NWH02PGB4CRMGXAKY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_sim_1",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 SIM 1"
+    },
+    "last_changed": "2025-07-28T18:14:23.125835+00:00",
+    "last_reported": "2025-07-28T18:14:23.125835+00:00",
+    "last_updated": "2025-07-28T18:14:23.125835+00:00",
+    "context": {
+      "id": "01K193WB4NJVHMTSJ955NM8C8H",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_sim_2",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 SIM 2"
+    },
+    "last_changed": "2025-07-28T18:14:23.125993+00:00",
+    "last_reported": "2025-07-28T18:14:23.125993+00:00",
+    "last_updated": "2025-07-28T18:14:23.125993+00:00",
+    "context": {
+      "id": "01K193WB4N47B0KAGJ1QRW6FZH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_connection_type",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 Connection Type"
+    },
+    "last_changed": "2025-07-28T18:14:23.126147+00:00",
+    "last_reported": "2025-07-28T18:14:23.126147+00:00",
+    "last_updated": "2025-07-28T18:14:23.126147+00:00",
+    "context": {
+      "id": "01K193WB4PJ7STGN9NVYTYEDFT",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_geocoded_location",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 Geocoded Location"
+    },
+    "last_changed": "2025-07-28T18:14:23.126938+00:00",
+    "last_reported": "2025-07-28T18:14:23.126938+00:00",
+    "last_updated": "2025-07-28T18:14:23.126938+00:00",
+    "context": {
+      "id": "01K193WB4P9DVNDS6BYJSE8MZX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_bssid",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 BSSID"
+    },
+    "last_changed": "2025-07-28T18:14:23.127092+00:00",
+    "last_reported": "2025-07-28T18:14:23.127092+00:00",
+    "last_updated": "2025-07-28T18:14:23.127092+00:00",
+    "context": {
+      "id": "01K193WB4QB96Q78TBHQ9S4NWK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_last_update_trigger",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 Last Update Trigger"
+    },
+    "last_changed": "2025-07-28T18:14:23.127230+00:00",
+    "last_reported": "2025-07-28T18:14:23.127230+00:00",
+    "last_updated": "2025-07-28T18:14:23.127230+00:00",
+    "context": {
+      "id": "01K193WB4QGDTT5R589QQDBBQQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_app_version",
+    "state": "2025.7.1",
+    "attributes": {
+      "icon": "mdi:cellphone",
+      "friendly_name": "SirSmartPig2023 App Version"
+    },
+    "last_changed": "2025-07-28T18:14:23.127356+00:00",
+    "last_reported": "2025-07-28T18:14:23.127356+00:00",
+    "last_updated": "2025-07-28T18:14:23.127356+00:00",
+    "context": {
+      "id": "01K193WB4Q1AA19JC2VK7HJB7D",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_location_permission",
+    "state": "Authorized when in use",
+    "attributes": {
+      "icon": "mdi:map",
+      "friendly_name": "SirSmartPig2023 Location permission"
+    },
+    "last_changed": "2025-07-28T18:14:23.127470+00:00",
+    "last_reported": "2025-07-28T18:14:23.127470+00:00",
+    "last_updated": "2025-07-28T18:14:23.127470+00:00",
+    "context": {
+      "id": "01K193WB4QFR2XV8VEXZM8N43M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_audio_output",
+    "state": "unavailable",
+    "attributes": {
+      "icon": "mdi:dots-square",
+      "friendly_name": "SirSmartPig2023 Audio Output"
+    },
+    "last_changed": "2025-07-28T18:14:23.127588+00:00",
+    "last_reported": "2025-07-28T18:14:23.127588+00:00",
+    "last_updated": "2025-07-28T18:14:23.127588+00:00",
+    "context": {
+      "id": "01K193WB4Q0BE7CSCZNFS5RVRC",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "tts.google_translate_en_com",
+    "state": "unknown",
+    "attributes": {
+      "friendly_name": "Google Translate en com"
+    },
+    "last_changed": "2025-07-28T18:14:23.154611+00:00",
+    "last_reported": "2025-07-28T18:14:23.154611+00:00",
+    "last_updated": "2025-07-28T18:14:23.154611+00:00",
+    "context": {
+      "id": "01K193WB5JWMCZ8J6A55Y477N3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "todo.shopping_list",
+    "state": "1",
+    "attributes": {
+      "friendly_name": "Shopping List",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-29T12:43:32.866239+00:00",
+    "last_reported": "2025-07-29T12:43:38.786622+00:00",
+    "last_updated": "2025-07-29T12:43:32.866239+00:00",
+    "context": {
+      "id": "01K1B3B93YH91YF1G2PKZHPGPT",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "binary_sensor.tesla_wall_connector_vehicle_connected",
+    "state": "off",
+    "attributes": {
+      "device_class": "plug",
+      "friendly_name": "Tesla Wall Connector Vehicle connected"
+    },
+    "last_changed": "2025-08-05T05:01:39.853115+00:00",
+    "last_reported": "2025-08-05T05:01:39.853115+00:00",
+    "last_updated": "2025-08-05T05:01:39.853115+00:00",
+    "context": {
+      "id": "01K1W9PJMDP2H8GHMVQP6E01BF",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.tesla_wall_connector_contactor_closed",
+    "state": "off",
+    "attributes": {
+      "device_class": "battery_charging",
+      "friendly_name": "Tesla Wall Connector Contactor closed"
+    },
+    "last_changed": "2025-08-05T05:01:39.853380+00:00",
+    "last_reported": "2025-08-05T05:01:39.853380+00:00",
+    "last_updated": "2025-08-05T05:01:39.853380+00:00",
+    "context": {
+      "id": "01K1W9PJMD081QAEZNZXQ50QFA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_status",
+    "state": "not_connected",
+    "attributes": {
+      "options": [
+        "booting",
+        "not_connected",
+        "connected",
+        "ready",
+        "negotiating",
+        "error",
+        "charging_finished",
+        "waiting_car",
+        "charging_reduced",
+        "charging"
+      ],
+      "device_class": "enum",
+      "friendly_name": "Tesla Wall Connector Status"
+    },
+    "last_changed": "2025-08-05T05:01:39.853505+00:00",
+    "last_reported": "2025-08-05T05:01:39.853505+00:00",
+    "last_updated": "2025-08-05T05:01:39.853505+00:00",
+    "context": {
+      "id": "01K1W9PJMDZ0AF15YWRAGKAM68",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_handle_temperature",
+    "state": "89.24",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "friendly_name": "Tesla Wall Connector Handle temperature"
+    },
+    "last_changed": "2025-08-05T20:01:37.181108+00:00",
+    "last_reported": "2025-08-05T20:01:37.181108+00:00",
+    "last_updated": "2025-08-05T20:01:37.181108+00:00",
+    "context": {
+      "id": "01K1XX6ECX2T0HDNAGPKC2D1EN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_pcb_temperature",
+    "state": "92.84",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "friendly_name": "Tesla Wall Connector PCB temperature"
+    },
+    "last_changed": "2025-08-05T20:55:07.315209+00:00",
+    "last_reported": "2025-08-05T20:55:07.315209+00:00",
+    "last_updated": "2025-08-05T20:55:07.315209+00:00",
+    "context": {
+      "id": "01K1Y08D9KMCSHW68W8JETZRVB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_mcu_temperature",
+    "state": "100.58",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "friendly_name": "Tesla Wall Connector MCU temperature"
+    },
+    "last_changed": "2025-08-05T21:40:07.190651+00:00",
+    "last_reported": "2025-08-05T21:40:07.190651+00:00",
+    "last_updated": "2025-08-05T21:40:07.190651+00:00",
+    "context": {
+      "id": "01K1Y2TSWPPWQJF7502V1PZPD0",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_grid_voltage",
+    "state": "243.8",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "V",
+      "device_class": "voltage",
+      "friendly_name": "Tesla Wall Connector Grid voltage"
+    },
+    "last_changed": "2025-08-05T21:46:37.224465+00:00",
+    "last_reported": "2025-08-05T21:46:37.224465+00:00",
+    "last_updated": "2025-08-05T21:46:37.224465+00:00",
+    "context": {
+      "id": "01K1Y36PS8YZ37TE2HA7QBSZR4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_grid_frequency",
+    "state": "59.898",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "Hz",
+      "device_class": "frequency",
+      "friendly_name": "Tesla Wall Connector Grid frequency"
+    },
+    "last_changed": "2025-08-05T21:46:37.224672+00:00",
+    "last_reported": "2025-08-05T21:46:37.224672+00:00",
+    "last_updated": "2025-08-05T21:46:37.224672+00:00",
+    "context": {
+      "id": "01K1Y36PS8GGXQDMMCTKQV5JYH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_a_current",
+    "state": "0.0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "A",
+      "device_class": "current",
+      "friendly_name": "Tesla Wall Connector Phase A current"
+    },
+    "last_changed": "2025-08-05T05:01:39.853976+00:00",
+    "last_reported": "2025-08-05T05:01:39.853976+00:00",
+    "last_updated": "2025-08-05T05:01:39.853976+00:00",
+    "context": {
+      "id": "01K1W9PJMD1NSYSTGAAARG9P6S",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_b_current",
+    "state": "0.0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "A",
+      "device_class": "current",
+      "friendly_name": "Tesla Wall Connector Phase B current"
+    },
+    "last_changed": "2025-08-05T05:01:39.854111+00:00",
+    "last_reported": "2025-08-05T05:01:39.854111+00:00",
+    "last_updated": "2025-08-05T05:01:39.854111+00:00",
+    "context": {
+      "id": "01K1W9PJMETN1X8GYWJVRD0ZG2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_c_current",
+    "state": "0.0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "A",
+      "device_class": "current",
+      "friendly_name": "Tesla Wall Connector Phase C current"
+    },
+    "last_changed": "2025-08-05T05:01:39.854218+00:00",
+    "last_reported": "2025-08-05T05:01:39.854218+00:00",
+    "last_updated": "2025-08-05T05:01:39.854218+00:00",
+    "context": {
+      "id": "01K1W9PJMECRZP8RJG0BNX24NG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_a_voltage",
+    "state": "2.1",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "V",
+      "device_class": "voltage",
+      "friendly_name": "Tesla Wall Connector Phase A voltage"
+    },
+    "last_changed": "2025-08-05T05:01:39.854262+00:00",
+    "last_reported": "2025-08-05T05:01:39.854262+00:00",
+    "last_updated": "2025-08-05T05:01:39.854262+00:00",
+    "context": {
+      "id": "01K1W9PJMEYADCRCXEQ7ZKW7SM",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_b_voltage",
+    "state": "2.1",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "V",
+      "device_class": "voltage",
+      "friendly_name": "Tesla Wall Connector Phase B voltage"
+    },
+    "last_changed": "2025-08-05T05:01:39.854295+00:00",
+    "last_reported": "2025-08-05T05:01:39.854295+00:00",
+    "last_updated": "2025-08-05T05:01:39.854295+00:00",
+    "context": {
+      "id": "01K1W9PJMEWC12XP2M27H69BFV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_phase_c_voltage",
+    "state": "2.1",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "V",
+      "device_class": "voltage",
+      "friendly_name": "Tesla Wall Connector Phase C voltage"
+    },
+    "last_changed": "2025-08-05T05:01:39.854325+00:00",
+    "last_reported": "2025-08-05T05:01:39.854325+00:00",
+    "last_updated": "2025-08-05T05:01:39.854325+00:00",
+    "context": {
+      "id": "01K1W9PJMEA0E2ESQK525PPT1S",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_session_energy",
+    "state": "0.0",
+    "attributes": {
+      "state_class": "total_increasing",
+      "unit_of_measurement": "kWh",
+      "device_class": "energy",
+      "friendly_name": "Tesla Wall Connector Session energy"
+    },
+    "last_changed": "2025-08-05T05:01:39.854360+00:00",
+    "last_reported": "2025-08-05T05:01:39.854360+00:00",
+    "last_updated": "2025-08-05T05:01:39.854360+00:00",
+    "context": {
+      "id": "01K1W9PJMEB520Z83CM5NE3J6M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.tesla_wall_connector_energy",
+    "state": "8156.232",
+    "attributes": {
+      "state_class": "total_increasing",
+      "unit_of_measurement": "kWh",
+      "device_class": "energy",
+      "friendly_name": "Tesla Wall Connector Energy"
+    },
+    "last_changed": "2025-08-05T05:01:39.854401+00:00",
+    "last_reported": "2025-08-05T05:01:39.854401+00:00",
+    "last_updated": "2025-08-05T05:01:39.854401+00:00",
+    "context": {
+      "id": "01K1W9PJME2NQXKG06N6EVV20D",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.sunset",
+    "state": "on",
+    "attributes": {
+      "id": "1753208623777",
+      "last_triggered": "2025-08-05T00:16:00.265469+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "SunSet"
+    },
+    "last_changed": "2025-08-01T17:27:19.980695+00:00",
+    "last_reported": "2025-08-05T00:16:00.307443+00:00",
+    "last_updated": "2025-08-05T00:16:00.307443+00:00",
+    "context": {
+      "id": "01K1VSBGR9WBETGHM6C7H22306",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.sunrise",
+    "state": "on",
+    "attributes": {
+      "id": "1753208706115",
+      "last_triggered": "2025-08-05T10:58:53.450328+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "SunRise"
+    },
+    "last_changed": "2025-07-30T11:29:35.368197+00:00",
+    "last_reported": "2025-08-05T10:58:54.703017+00:00",
+    "last_updated": "2025-08-05T10:58:54.703017+00:00",
+    "context": {
+      "id": "01K1WY4NWASTE8DKR44KR54EY3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.notify_when_holloween_turns_on",
+    "state": "on",
+    "attributes": {
+      "id": "1753212085244",
+      "last_triggered": "2025-07-22T19:39:12.431849+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": " Holloween Toggles on"
+    },
+    "last_changed": "2025-07-28T18:14:23.187672+00:00",
+    "last_reported": "2025-07-28T18:14:23.187672+00:00",
+    "last_updated": "2025-07-28T18:14:23.187672+00:00",
+    "context": {
+      "id": "01K193WB6KGHJN2C34E95P8C2D",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.holloween_turned_off",
+    "state": "on",
+    "attributes": {
+      "id": "1753212480037",
+      "last_triggered": "2025-07-22T19:40:45.085286+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Holloween Toggles Off"
+    },
+    "last_changed": "2025-07-28T18:14:23.187759+00:00",
+    "last_reported": "2025-07-28T18:14:23.187759+00:00",
+    "last_updated": "2025-07-28T18:14:23.187759+00:00",
+    "context": {
+      "id": "01K193WB6K2XWVJWWD216EJ7S7",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.goodnight",
+    "state": "on",
+    "attributes": {
+      "id": "1753216358540",
+      "last_triggered": "2025-08-05T01:33:28.772736+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Goodnight"
+    },
+    "last_changed": "2025-07-30T11:29:59.143417+00:00",
+    "last_reported": "2025-08-05T01:33:31.419795+00:00",
+    "last_updated": "2025-08-05T01:33:31.419795+00:00",
+    "context": {
+      "id": "01K1VXSCA4R3P1Y3CTM1HZJBGE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.egc_sun_rise",
+    "state": "on",
+    "attributes": {
+      "id": "1753270296841",
+      "last_triggered": "2025-08-05T10:58:53.448779+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "EGC Sun Rise"
+    },
+    "last_changed": "2025-07-28T18:14:23.187848+00:00",
+    "last_reported": "2025-08-05T10:58:53.449687+00:00",
+    "last_updated": "2025-08-05T10:58:53.449687+00:00",
+    "context": {
+      "id": "01K1WY4NW8DKVD46NPWPD4FSAG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.egc_sun_set",
+    "state": "on",
+    "attributes": {
+      "id": "1753270359383",
+      "last_triggered": "2025-08-05T00:16:00.263646+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "EGC Sun Set"
+    },
+    "last_changed": "2025-07-28T18:14:23.187889+00:00",
+    "last_reported": "2025-08-05T00:16:00.264590+00:00",
+    "last_updated": "2025-08-05T00:16:00.264590+00:00",
+    "context": {
+      "id": "01K1VSBGR7354A3MTGT1RY1P5H",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.fans_on_patio1",
+    "state": "unavailable",
+    "attributes": {
+      "restored": true,
+      "icon": "mdi:ceiling-fan",
+      "friendly_name": "Patio1 Fans Off",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-29T20:00:20.458001+00:00",
+    "last_reported": "2025-07-29T20:00:20.458001+00:00",
+    "last_updated": "2025-07-29T20:00:20.458001+00:00",
+    "context": {
+      "id": "01K1BWB2FARWR0RGD84BVTHNZE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio1_close_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-04T18:03:02.749746+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-closed",
+      "friendly_name": "Patio1 Shades Close"
+    },
+    "last_changed": "2025-08-04T18:03:04.193667+00:00",
+    "last_reported": "2025-08-04T18:03:04.193667+00:00",
+    "last_updated": "2025-08-04T18:03:04.193667+00:00",
+    "context": {
+      "id": "01K1V40KPWFYX22KX27RR0AANQ",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "script.patio1_open_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-02T18:45:11.721982+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade",
+      "friendly_name": "Patio1 Shades Open"
+    },
+    "last_changed": "2025-08-02T18:45:13.383052+00:00",
+    "last_reported": "2025-08-02T18:45:13.383052+00:00",
+    "last_updated": "2025-08-02T18:45:13.383052+00:00",
+    "context": {
+      "id": "01K1P1MBD9YNPF3TR9KFEMF2FG",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "script.close_all_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-03T17:38:35.510629+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-closed",
+      "friendly_name": "All Shades Close"
+    },
+    "last_changed": "2025-08-03T17:38:40.040569+00:00",
+    "last_reported": "2025-08-03T17:38:40.040569+00:00",
+    "last_updated": "2025-08-03T17:38:40.040569+00:00",
+    "context": {
+      "id": "01K1RG73VJ2XKB1T4DHYRQT0FC",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "script.open_all_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade",
+      "friendly_name": "All Shades Open"
+    },
+    "last_changed": "2025-07-29T20:10:23.563461+00:00",
+    "last_reported": "2025-07-29T20:10:23.563461+00:00",
+    "last_updated": "2025-07-29T20:10:23.563461+00:00",
+    "context": {
+      "id": "01K1BWXFEBP2AXPV0N5RNXJ7VP",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.start_pool_heater",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-07-23T13:36:07.916918+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Start Pool Heater"
+    },
+    "last_changed": "2025-07-28T18:14:23.190226+00:00",
+    "last_reported": "2025-07-28T18:14:23.190226+00:00",
+    "last_updated": "2025-07-28T18:14:23.190226+00:00",
+    "context": {
+      "id": "01K193WB6PYNKMN1BDZGC8ZGCB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.stop_pool_heater",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-07-23T13:45:18.390573+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Stop Pool Heater"
+    },
+    "last_changed": "2025-07-28T18:14:23.190273+00:00",
+    "last_reported": "2025-07-28T18:14:23.190273+00:00",
+    "last_updated": "2025-07-28T18:14:23.190273+00:00",
+    "context": {
+      "id": "01K193WB6PKD9VPFQ29SZMA6H6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.spa_on",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-07-22T20:50:42.255140+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Spa On"
+    },
+    "last_changed": "2025-07-28T18:14:23.190319+00:00",
+    "last_reported": "2025-07-28T18:14:23.190319+00:00",
+    "last_updated": "2025-07-28T18:14:23.190319+00:00",
+    "context": {
+      "id": "01K193WB6P4MMW3PZ8NRDH467D",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.spa_off",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-07-22T20:55:17.378180+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Spa off"
+    },
+    "last_changed": "2025-07-28T18:14:23.190368+00:00",
+    "last_reported": "2025-07-28T18:14:23.190368+00:00",
+    "last_updated": "2025-07-28T18:14:23.190368+00:00",
+    "context": {
+      "id": "01K193WB6PRSGN5Q0T07WM3HBS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.heading_to_1505",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-04T18:03:02.749143+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Heading to 1505"
+    },
+    "last_changed": "2025-08-04T18:03:05.323418+00:00",
+    "last_reported": "2025-08-04T18:03:05.323418+00:00",
+    "last_updated": "2025-08-04T18:03:05.323418+00:00",
+    "context": {
+      "id": "01K1V40KPWFYX22KX27RR0AANQ",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "sensor.kfmy_wind_speed",
+    "state": "0",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "mph",
+      "attribution": "Data from National Weather Service/NOAA",
+      "device_class": "wind_speed",
+      "friendly_name": "KFMY Wind Speed"
+    },
+    "last_changed": "2025-08-05T21:37:25.635705+00:00",
+    "last_reported": "2025-08-05T21:37:25.635705+00:00",
+    "last_updated": "2025-08-05T21:37:25.635705+00:00",
+    "context": {
+      "id": "01K1Y2NW43RFHJDFJDS1WMHW2A",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.kfmy_wind_gust",
+    "state": "unknown",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "mph",
+      "attribution": "Data from National Weather Service/NOAA",
+      "device_class": "wind_speed",
+      "friendly_name": "KFMY Wind Gust"
+    },
+    "last_changed": "2025-08-03T00:17:06.603197+00:00",
+    "last_reported": "2025-08-03T00:17:06.603197+00:00",
+    "last_updated": "2025-08-03T00:17:06.603197+00:00",
+    "context": {
+      "id": "01K1PMM3HB99MPVASGZ3RH863P",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.kfmy_wind_direction",
+    "state": "0.0",
+    "attributes": {
+      "state_class": "measurement_angle",
+      "unit_of_measurement": "°",
+      "attribution": "Data from National Weather Service/NOAA",
+      "device_class": "wind_direction",
+      "icon": "mdi:compass-rose",
+      "friendly_name": "KFMY Wind Direction"
+    },
+    "last_changed": "2025-08-05T21:37:25.636776+00:00",
+    "last_reported": "2025-08-05T21:37:25.636776+00:00",
+    "last_updated": "2025-08-05T21:37:25.636776+00:00",
+    "context": {
+      "id": "01K1Y2NW443DQA60N6PTQCDQGS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "weather.kfmy",
+    "state": "sunny",
+    "attributes": {
+      "temperature": 91,
+      "temperature_unit": "°F",
+      "humidity": 56,
+      "pressure": 30.1,
+      "pressure_unit": "inHg",
+      "wind_bearing": 0.0,
+      "wind_speed": 0.0,
+      "wind_speed_unit": "mph",
+      "visibility": 10.0,
+      "visibility_unit": "mi",
+      "precipitation_unit": "in",
+      "attribution": "Data from National Weather Service/NOAA",
+      "friendly_name": "KFMY",
+      "supported_features": 6
+    },
+    "last_changed": "2025-08-05T20:17:18.777105+00:00",
+    "last_reported": "2025-08-05T21:37:25.637840+00:00",
+    "last_updated": "2025-08-05T21:37:25.637840+00:00",
+    "context": {
+      "id": "01K1Y2NW453V4G6E0105HFZXAT",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.second_floor_the_running",
+    "state": "on",
+    "attributes": {
+      "device_class": "power",
+      "friendly_name": "AC2_running"
+    },
+    "last_changed": "2025-08-05T11:27:35.809568+00:00",
+    "last_reported": "2025-08-05T11:27:35.809568+00:00",
+    "last_updated": "2025-08-05T11:27:35.809568+00:00",
+    "context": {
+      "id": "01K1WZS7W142WGFYBVW4QZAK8G",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.second_floor_the_screen_locked",
+    "state": "off",
+    "attributes": {
+      "device_class": "lock",
+      "friendly_name": "AC2_screen_locked"
+    },
+    "last_changed": "2025-07-28T19:59:11.224371+00:00",
+    "last_reported": "2025-07-28T19:59:30.944132+00:00",
+    "last_updated": "2025-07-28T19:59:11.224371+00:00",
+    "context": {
+      "id": "01K199W7VRM8P4EX6PFAKAVMQ6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.second_floor_the_beep_enabled",
+    "state": "on",
+    "attributes": {
+      "device_class": "sound",
+      "friendly_name": "AC2_beep_enabled"
+    },
+    "last_changed": "2025-07-28T19:59:11.224526+00:00",
+    "last_reported": "2025-07-28T19:59:30.944172+00:00",
+    "last_updated": "2025-07-28T19:59:11.224526+00:00",
+    "context": {
+      "id": "01K199W7VR66329DN0F5Y3237A",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.first_floor_ther_running",
+    "state": "on",
+    "attributes": {
+      "device_class": "power",
+      "friendly_name": "AC1_running"
+    },
+    "last_changed": "2025-08-05T21:12:04.257990+00:00",
+    "last_reported": "2025-08-05T21:12:28.569286+00:00",
+    "last_updated": "2025-08-05T21:12:04.257990+00:00",
+    "context": {
+      "id": "01K1Y17ED102GTFM3NJCRB9AZ3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.first_floor_ther_screen_locked",
+    "state": "off",
+    "attributes": {
+      "device_class": "lock",
+      "friendly_name": "AC1_screen_locked"
+    },
+    "last_changed": "2025-07-28T20:01:51.291647+00:00",
+    "last_reported": "2025-07-28T20:01:51.291647+00:00",
+    "last_updated": "2025-07-28T20:01:51.291647+00:00",
+    "context": {
+      "id": "01K19A145V0C9NYZ3SR1BMZGVZ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.first_floor_ther_beep_enabled",
+    "state": "on",
+    "attributes": {
+      "device_class": "sound",
+      "friendly_name": "AC1_beep_enabled"
+    },
+    "last_changed": "2025-07-28T20:01:51.291726+00:00",
+    "last_reported": "2025-07-28T20:01:51.291726+00:00",
+    "last_updated": "2025-07-28T20:01:51.291726+00:00",
+    "context": {
+      "id": "01K19A145VR8CKH4BHM4WYPT3E",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "climate.second_floor_the",
+    "state": "cool",
+    "attributes": {
+      "hvac_modes": [
+        "heat",
+        "cool",
+        "heat_cool",
+        "fan_only",
+        "off"
+      ],
+      "min_temp": 40,
+      "max_temp": 95,
+      "min_humidity": 40,
+      "max_humidity": 60,
+      "fan_modes": [
+        "auto",
+        "low",
+        "medium",
+        "high"
+      ],
+      "current_temperature": 75,
+      "temperature": 75,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 45,
+      "humidity": 52,
+      "fan_mode": "auto",
+      "friendly_name": "AC2",
+      "supported_features": 399
+    },
+    "last_changed": "2025-08-03T14:16:51.943594+00:00",
+    "last_reported": "2025-08-05T19:29:09.897109+00:00",
+    "last_updated": "2025-08-05T19:29:09.897109+00:00",
+    "context": {
+      "id": "01K1XVB0R9E156GSQH1QXV9BB7",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "climate.first_floor_ther",
+    "state": "cool",
+    "attributes": {
+      "hvac_modes": [
+        "heat",
+        "cool",
+        "heat_cool",
+        "fan_only",
+        "off"
+      ],
+      "min_temp": 40,
+      "max_temp": 95,
+      "min_humidity": 40,
+      "max_humidity": 60,
+      "fan_modes": [
+        "auto",
+        "low",
+        "medium",
+        "high"
+      ],
+      "current_temperature": 75,
+      "temperature": 75,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "humidity": 52,
+      "fan_mode": "auto",
+      "friendly_name": "AC1",
+      "supported_features": 399
+    },
+    "last_changed": "2025-08-03T14:00:43.689658+00:00",
+    "last_reported": "2025-08-05T21:36:13.073490+00:00",
+    "last_updated": "2025-08-05T21:36:13.073490+00:00",
+    "context": {
+      "id": "01K1Y2KN8H0MKE1VB9REZRPA87",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.second_floor_the_alert_count",
+    "state": "0",
+    "attributes": {
+      "friendly_name": "AC2_alert_count"
+    },
+    "last_changed": "2025-07-28T19:59:11.225424+00:00",
+    "last_reported": "2025-07-28T19:59:30.944911+00:00",
+    "last_updated": "2025-07-28T19:59:11.225424+00:00",
+    "context": {
+      "id": "01K199W7VS6Z91V72CJN13Z4B1",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.second_floor_the_running_state",
+    "state": "Cooling to 75 °",
+    "attributes": {
+      "friendly_name": "AC2_running_state"
+    },
+    "last_changed": "2025-08-05T11:27:35.810445+00:00",
+    "last_reported": "2025-08-05T11:27:35.810445+00:00",
+    "last_updated": "2025-08-05T11:27:35.810445+00:00",
+    "context": {
+      "id": "01K1WZS7W201MY9Q53FBXTH4BS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.first_floor_ther_alert_count",
+    "state": "0",
+    "attributes": {
+      "friendly_name": "AC1_alert_count"
+    },
+    "last_changed": "2025-08-04T17:41:53.326094+00:00",
+    "last_reported": "2025-08-04T17:41:53.326725+00:00",
+    "last_updated": "2025-08-04T17:41:53.326094+00:00",
+    "context": {
+      "id": "01K1V2SW1ERFZ9P5XW2TWPKHH3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.first_floor_ther_running_state",
+    "state": "Cooling to 75 °",
+    "attributes": {
+      "friendly_name": "AC1_running_state"
+    },
+    "last_changed": "2025-08-05T21:12:04.259787+00:00",
+    "last_reported": "2025-08-05T21:12:28.569647+00:00",
+    "last_updated": "2025-08-05T21:12:04.259787+00:00",
+    "context": {
+      "id": "01K1Y17ED3YS4F6WE7XCEDCFDF",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.second_floor_the_emergency_heat",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Second Floor The emergency heat"
+    },
+    "last_changed": "2025-07-28T19:59:11.225728+00:00",
+    "last_reported": "2025-07-28T19:59:30.945029+00:00",
+    "last_updated": "2025-07-28T19:59:11.225728+00:00",
+    "context": {
+      "id": "01K199W7VSC1EZ9VP8VRYXV111",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.first_floor_ther_emergency_heat",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "First Floor Ther emergency heat"
+    },
+    "last_changed": "2025-07-28T20:01:51.293025+00:00",
+    "last_reported": "2025-07-28T20:01:51.293025+00:00",
+    "last_updated": "2025-07-28T20:01:51.293025+00:00",
+    "context": {
+      "id": "01K19A145XRKZ1GXHR0ED14K27",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.18516_doorbell_motion",
+    "state": "off",
+    "attributes": {
+      "device_class": "motion",
+      "friendly_name": "18516 Doorbell Motion"
+    },
+    "last_changed": "2025-08-05T21:00:47.867625+00:00",
+    "last_reported": "2025-08-05T21:00:47.867625+00:00",
+    "last_updated": "2025-08-05T21:00:47.867625+00:00",
+    "context": {
+      "id": "01K1Y0JSVV4A3BCAJ3X4EAPXF8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.18516_doorbell_person",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Person"
+    },
+    "last_changed": "2025-08-05T14:30:59.649278+00:00",
+    "last_reported": "2025-08-05T14:31:15.637666+00:00",
+    "last_updated": "2025-08-05T14:30:59.649278+00:00",
+    "context": {
+      "id": "01K1XA91T191FD58ZQGSR284EA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.18516_doorbell_visitor",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Visitor"
+    },
+    "last_changed": "2025-08-04T13:49:41.998230+00:00",
+    "last_reported": "2025-08-04T13:49:53.163561+00:00",
+    "last_updated": "2025-08-04T13:49:41.998230+00:00",
+    "context": {
+      "id": "01K1TNGQ7EHJ0FJNAAE87QEBEB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "camera.18516_doorbell_fluent",
+    "state": "idle",
+    "attributes": {
+      "access_token": "b89591547bf3296940663f6e3ea2ababefa0daed769847ff73b634fd4450d514",
+      "entity_picture": "/api/camera_proxy/camera.18516_doorbell_fluent?token=b89591547bf3296940663f6e3ea2ababefa0daed769847ff73b634fd4450d514",
+      "friendly_name": "18516 Doorbell Fluent",
+      "supported_features": 2
+    },
+    "last_changed": "2025-07-28T18:14:24.694166+00:00",
+    "last_reported": "2025-08-05T21:44:29.348804+00:00",
+    "last_updated": "2025-08-05T21:44:29.348804+00:00",
+    "context": {
+      "id": "01K1Y32SX46R5NQF1CF0X04W76",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.18516_doorbell_volume",
+    "state": "100",
+    "attributes": {
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "mode": "auto",
+      "friendly_name": "18516 Doorbell Volume"
+    },
+    "last_changed": "2025-07-28T18:14:24.694644+00:00",
+    "last_reported": "2025-07-28T18:14:24.694644+00:00",
+    "last_updated": "2025-07-28T18:14:24.694644+00:00",
+    "context": {
+      "id": "01K193WCNP7CH895KMWH9DN0TX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.18516_doorbell_motion_sensitivity",
+    "state": "41",
+    "attributes": {
+      "min": 1,
+      "max": 50,
+      "step": 1,
+      "mode": "auto",
+      "friendly_name": "18516 Doorbell Motion sensitivity"
+    },
+    "last_changed": "2025-07-28T18:14:24.694742+00:00",
+    "last_reported": "2025-07-28T18:14:24.694742+00:00",
+    "last_updated": "2025-07-28T18:14:24.694742+00:00",
+    "context": {
+      "id": "01K193WCNPEHNSJAQC3TSRGMWH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.18516_doorbell_ai_person_sensitivity",
+    "state": "60",
+    "attributes": {
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "mode": "auto",
+      "friendly_name": "18516 Doorbell AI person sensitivity"
+    },
+    "last_changed": "2025-07-28T18:14:24.694826+00:00",
+    "last_reported": "2025-07-28T18:14:24.694826+00:00",
+    "last_updated": "2025-07-28T18:14:24.694826+00:00",
+    "context": {
+      "id": "01K193WCNPJN41GQNEP3S9X46H",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.18516_doorbell_auto_quick_reply_time",
+    "state": "15",
+    "attributes": {
+      "min": 1,
+      "max": 60,
+      "step": 1,
+      "mode": "auto",
+      "unit_of_measurement": "s",
+      "device_class": "duration",
+      "friendly_name": "18516 Doorbell Auto quick reply time"
+    },
+    "last_changed": "2025-07-28T18:14:24.694938+00:00",
+    "last_reported": "2025-07-28T18:14:24.694938+00:00",
+    "last_updated": "2025-07-28T18:14:24.694938+00:00",
+    "context": {
+      "id": "01K193WCNPSC06NPCD2MFB165N",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_doorbell_volume",
+    "state": "4",
+    "attributes": {
+      "min": 0,
+      "max": 4,
+      "step": 1,
+      "mode": "auto",
+      "friendly_name": "Cutlass doorbell Volume"
+    },
+    "last_changed": "2025-07-28T18:14:24.695176+00:00",
+    "last_reported": "2025-07-28T18:14:24.695176+00:00",
+    "last_updated": "2025-07-28T18:14:24.695176+00:00",
+    "context": {
+      "id": "01K193WCNQPEEV9R5SDZPH4SAS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.18516_doorbell_day_night_mode",
+    "state": "auto",
+    "attributes": {
+      "options": [
+        "auto",
+        "color",
+        "blackwhite"
+      ],
+      "friendly_name": "18516 Doorbell Day night mode"
+    },
+    "last_changed": "2025-07-28T18:14:24.695518+00:00",
+    "last_reported": "2025-07-28T18:14:24.695518+00:00",
+    "last_updated": "2025-07-28T18:14:24.695518+00:00",
+    "context": {
+      "id": "01K193WCNQRWBSVM0XW3VDAR0M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.18516_doorbell_play_quick_reply_message",
+    "state": "unknown",
+    "attributes": {
+      "options": [
+        "I'm sorry. I think you've knocked on the wrong door.",
+        "Hi, we will be right there. Please wait a moment.",
+        "Hi, please leave the package at the door. We will get it later.",
+        "E - At the pool"
+      ],
+      "friendly_name": "18516 Doorbell Play quick reply message"
+    },
+    "last_changed": "2025-07-28T18:14:24.695595+00:00",
+    "last_reported": "2025-07-28T18:14:24.695595+00:00",
+    "last_updated": "2025-07-28T18:14:24.695595+00:00",
+    "context": {
+      "id": "01K193WCNQTT8DM8A07EWEKWP2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.18516_doorbell_auto_quick_reply_message",
+    "state": "off",
+    "attributes": {
+      "options": [
+        "off",
+        "I'm sorry. I think you've knocked on the wrong door.",
+        "Hi, we will be right there. Please wait a moment.",
+        "Hi, please leave the package at the door. We will get it later.",
+        "E - At the pool"
+      ],
+      "friendly_name": "18516 Doorbell Auto quick reply message"
+    },
+    "last_changed": "2025-07-28T18:14:24.695658+00:00",
+    "last_reported": "2025-07-28T18:14:24.695658+00:00",
+    "last_updated": "2025-07-28T18:14:24.695658+00:00",
+    "context": {
+      "id": "01K193WCNQ5VN2QFXJ5P72T8MA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.18516_doorbell_doorbell_led",
+    "state": "unknown",
+    "attributes": {
+      "options": [
+        "stayoff",
+        "auto",
+        "alwaysonatnight",
+        "alwayson"
+      ],
+      "friendly_name": "18516 Doorbell Doorbell LED"
+    },
+    "last_changed": "2025-07-28T18:14:24.695726+00:00",
+    "last_reported": "2025-07-28T18:14:24.695726+00:00",
+    "last_updated": "2025-07-28T18:14:24.695726+00:00",
+    "context": {
+      "id": "01K193WCNQXQN5HRW4HKVCD5XW",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.cutlass_doorbell_motion_ringtone",
+    "state": "off",
+    "attributes": {
+      "options": [
+        "off",
+        "citybird",
+        "originaltune",
+        "pianokey",
+        "loop",
+        "attraction",
+        "hophop",
+        "goodday",
+        "operetta",
+        "moonlight",
+        "waybackhome"
+      ],
+      "friendly_name": "Cutlass doorbell Motion ringtone"
+    },
+    "last_changed": "2025-07-28T18:14:24.695953+00:00",
+    "last_reported": "2025-07-28T18:14:24.695953+00:00",
+    "last_updated": "2025-07-28T18:14:24.695953+00:00",
+    "context": {
+      "id": "01K193WCNQ50W3MQ4YY55D06FN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.cutlass_doorbell_person_ringtone",
+    "state": "off",
+    "attributes": {
+      "options": [
+        "off",
+        "citybird",
+        "originaltune",
+        "pianokey",
+        "loop",
+        "attraction",
+        "hophop",
+        "goodday",
+        "operetta",
+        "moonlight",
+        "waybackhome"
+      ],
+      "friendly_name": "Cutlass doorbell Person ringtone"
+    },
+    "last_changed": "2025-07-28T18:14:24.696024+00:00",
+    "last_reported": "2025-07-28T18:14:24.696024+00:00",
+    "last_updated": "2025-07-28T18:14:24.696024+00:00",
+    "context": {
+      "id": "01K193WCNRHXZ1XJPZ964YH8KW",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.cutlass_doorbell_visitor_ringtone",
+    "state": "citybird",
+    "attributes": {
+      "options": [
+        "off",
+        "citybird",
+        "originaltune",
+        "pianokey",
+        "loop",
+        "attraction",
+        "hophop",
+        "goodday",
+        "operetta",
+        "moonlight",
+        "waybackhome"
+      ],
+      "friendly_name": "Cutlass doorbell Visitor ringtone"
+    },
+    "last_changed": "2025-07-28T18:14:24.696094+00:00",
+    "last_reported": "2025-07-28T18:14:24.696094+00:00",
+    "last_updated": "2025-07-28T18:14:24.696094+00:00",
+    "context": {
+      "id": "01K193WCNR3XFXVZ9QA26KKE5J",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.18516_doorbell_day_night_state",
+    "state": "day",
+    "attributes": {
+      "options": [
+        "day",
+        "night",
+        "led_day"
+      ],
+      "device_class": "enum",
+      "friendly_name": "18516 Doorbell Day night state"
+    },
+    "last_changed": "2025-07-28T18:14:24.696357+00:00",
+    "last_reported": "2025-07-28T18:14:24.696357+00:00",
+    "last_updated": "2025-07-28T18:14:24.696357+00:00",
+    "context": {
+      "id": "01K193WCNR36FW733EAX2K7SKZ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "siren.18516_doorbell_siren",
+    "state": "unknown",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Siren",
+      "supported_features": 27
+    },
+    "last_changed": "2025-07-28T18:14:24.696947+00:00",
+    "last_reported": "2025-07-28T18:14:24.696947+00:00",
+    "last_updated": "2025-07-28T18:14:24.696947+00:00",
+    "context": {
+      "id": "01K193WCNRV37N9FF2FEJPQ9DS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_infrared_lights_in_night_mode",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Infrared lights in night mode"
+    },
+    "last_changed": "2025-07-28T18:14:24.697255+00:00",
+    "last_reported": "2025-07-28T18:14:24.697255+00:00",
+    "last_updated": "2025-07-28T18:14:24.697255+00:00",
+    "context": {
+      "id": "01K193WCNSWCEDKDPH97GRX38N",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_record_audio",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Record audio"
+    },
+    "last_changed": "2025-07-28T18:14:24.697332+00:00",
+    "last_reported": "2025-07-28T18:14:24.697332+00:00",
+    "last_updated": "2025-07-28T18:14:24.697332+00:00",
+    "context": {
+      "id": "01K193WCNS88FNQD0YWE3EDVJX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_siren_on_event",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Siren on event"
+    },
+    "last_changed": "2025-07-28T18:14:24.697403+00:00",
+    "last_reported": "2025-07-28T18:14:24.697403+00:00",
+    "last_updated": "2025-07-28T18:14:24.697403+00:00",
+    "context": {
+      "id": "01K193WCNS1FJ6WW638RYG597P",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_doorbell_button_sound",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Doorbell button sound"
+    },
+    "last_changed": "2025-07-28T18:14:24.697466+00:00",
+    "last_reported": "2025-07-28T18:14:24.697466+00:00",
+    "last_updated": "2025-07-28T18:14:24.697466+00:00",
+    "context": {
+      "id": "01K193WCNSXEKRXSJBEBXRSB7F",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_email_on_event",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Email on event"
+    },
+    "last_changed": "2025-07-28T18:14:24.697548+00:00",
+    "last_reported": "2025-07-28T18:14:24.697548+00:00",
+    "last_updated": "2025-07-28T18:14:24.697548+00:00",
+    "context": {
+      "id": "01K193WCNSA3DTSNPKWVWJBH17",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_ftp_upload",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "18516 Doorbell FTP upload"
+    },
+    "last_changed": "2025-07-28T18:14:24.697620+00:00",
+    "last_reported": "2025-07-28T18:14:24.697620+00:00",
+    "last_updated": "2025-07-28T18:14:24.697620+00:00",
+    "context": {
+      "id": "01K193WCNS0AKQ8J7RRCQAP6CB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_push_notifications",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Push notifications"
+    },
+    "last_changed": "2025-07-28T18:14:24.697690+00:00",
+    "last_reported": "2025-07-28T18:14:24.697690+00:00",
+    "last_updated": "2025-07-28T18:14:24.697690+00:00",
+    "context": {
+      "id": "01K193WCNSBT378DTJBG1SE082",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.18516_doorbell_record",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "18516 Doorbell Record"
+    },
+    "last_changed": "2025-07-28T18:14:24.697752+00:00",
+    "last_reported": "2025-07-28T18:14:24.697752+00:00",
+    "last_updated": "2025-07-28T18:14:24.697752+00:00",
+    "context": {
+      "id": "01K193WCNSJZWVA6A63VKTTNB4",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_doorbell_led",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass doorbell LED"
+    },
+    "last_changed": "2025-07-28T18:14:24.697836+00:00",
+    "last_reported": "2025-07-28T18:14:24.697836+00:00",
+    "last_updated": "2025-07-28T18:14:24.697836+00:00",
+    "context": {
+      "id": "01K193WCNS561M0X1VDF7715CN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.18516_doorbell_firmware",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "v3.0.0.2676_23090702",
+      "in_progress": false,
+      "latest_version": "v3.0.0_4662_2503122271",
+      "release_summary": null,
+      "release_url": "https://reolink.com/download-center/",
+      "skipped_version": "v3.0.0_4662_2503122271",
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "entity_picture": "https://brands.home-assistant.io/_/reolink/icon.png",
+      "friendly_name": "18516 Doorbell Firmware",
+      "supported_features": 21
+    },
+    "last_changed": "2025-07-28T18:14:24.698087+00:00",
+    "last_reported": "2025-07-28T18:14:24.698087+00:00",
+    "last_updated": "2025-07-28T18:14:24.698087+00:00",
+    "context": {
+      "id": "01K193WCNTRT49816HFYQ5PS78",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_4",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 4",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-02T18:57:52.469928+00:00",
+    "last_reported": "2025-08-02T18:57:52.469928+00:00",
+    "last_updated": "2025-08-02T18:57:52.469928+00:00",
+    "context": {
+      "id": "01K1P2BHKB134ST17273K2APJF",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_11",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 11",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.821075+00:00",
+    "last_reported": "2025-07-28T18:14:39.120999+00:00",
+    "last_updated": "2025-07-28T18:14:28.821075+00:00",
+    "context": {
+      "id": "01K193WGPNR3RW3CFE9HY889TA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_12",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 12",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.821297+00:00",
+    "last_reported": "2025-07-28T18:14:39.181423+00:00",
+    "last_updated": "2025-07-28T18:14:28.821297+00:00",
+    "context": {
+      "id": "01K193WGPN55RHSZFP5DJ13JVV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_10",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 10",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.821515+00:00",
+    "last_reported": "2025-07-28T18:14:39.069229+00:00",
+    "last_updated": "2025-07-28T18:14:28.821515+00:00",
+    "context": {
+      "id": "01K193WGPN5VADXM3HHDFG32CY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_7",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 7",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-03T17:38:38.823062+00:00",
+    "last_reported": "2025-08-03T17:38:38.823062+00:00",
+    "last_updated": "2025-08-03T17:38:38.823062+00:00",
+    "context": {
+      "id": "01K1RG73VJ2XKB1T4DHYRQT0FC",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_8",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 8",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.821895+00:00",
+    "last_reported": "2025-07-28T18:14:41.118179+00:00",
+    "last_updated": "2025-07-28T18:14:28.821895+00:00",
+    "context": {
+      "id": "01K193WGPNTG1120QE82REK9B1",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_6",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 6",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-02T18:57:52.099758+00:00",
+    "last_reported": "2025-08-02T18:57:52.099758+00:00",
+    "last_updated": "2025-08-02T18:57:52.099758+00:00",
+    "context": {
+      "id": "01K1P2BHKB134ST17273K2APJF",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_3",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 3",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-02T18:57:53.446865+00:00",
+    "last_reported": "2025-08-02T18:57:53.446865+00:00",
+    "last_updated": "2025-08-02T18:57:53.446865+00:00",
+    "context": {
+      "id": "01K1P2BHKB134ST17273K2APJF",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_5",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 5",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-02T18:57:52.832337+00:00",
+    "last_reported": "2025-08-02T18:57:52.832337+00:00",
+    "last_updated": "2025-08-02T18:57:52.832337+00:00",
+    "context": {
+      "id": "01K1P2BHKB134ST17273K2APJF",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_13",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 13",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.822605+00:00",
+    "last_reported": "2025-07-28T18:14:41.323642+00:00",
+    "last_updated": "2025-07-28T18:14:28.822605+00:00",
+    "context": {
+      "id": "01K193WGPP6B60GD2KD8X3SE3Q",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_1",
+    "state": "open",
+    "attributes": {
+      "current_position": 100,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 1",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-03T17:42:48.591803+00:00",
+    "last_reported": "2025-08-03T17:42:48.591803+00:00",
+    "last_updated": "2025-08-03T17:42:48.591803+00:00",
+    "context": {
+      "id": "01K1RGETSB28FA5J2GA8KASHQE",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_9",
+    "state": "closed",
+    "attributes": {
+      "current_position": 0,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 9",
+      "supported_features": 15
+    },
+    "last_changed": "2025-07-28T18:14:28.822937+00:00",
+    "last_reported": "2025-07-28T18:14:43.271390+00:00",
+    "last_updated": "2025-07-28T18:14:28.822937+00:00",
+    "context": {
+      "id": "01K193WGPPNER7MN0JSCDKVCZ6",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "cover.gaposa_2",
+    "state": "open",
+    "attributes": {
+      "current_position": 100,
+      "assumed_state": true,
+      "device_class": "shade",
+      "friendly_name": "Gaposa 2",
+      "supported_features": 15
+    },
+    "last_changed": "2025-08-03T17:42:48.935300+00:00",
+    "last_reported": "2025-08-03T17:42:48.935300+00:00",
+    "last_updated": "2025-08-03T17:42:48.935300+00:00",
+    "context": {
+      "id": "01K1RGETSB28FA5J2GA8KASHQE",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_5",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "reverse",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 5",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-29T20:45:39.752697+00:00",
+    "last_reported": "2025-07-29T20:45:39.752697+00:00",
+    "last_updated": "2025-07-29T20:45:39.752697+00:00",
+    "context": {
+      "id": "01K1BYY04R6MV1N8GV9QNY9Q34",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_2",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 2",
+      "supported_features": 53
+    },
+    "last_changed": "2025-08-03T01:33:31.175531+00:00",
+    "last_reported": "2025-08-03T01:33:31.175531+00:00",
+    "last_updated": "2025-08-03T01:33:31.175531+00:00",
+    "context": {
+      "id": "01K1PRZYVFP1M6HPT9AF4ZT67R",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_4",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 4",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-29T20:45:40.165530+00:00",
+    "last_reported": "2025-07-29T20:45:40.165530+00:00",
+    "last_updated": "2025-07-29T20:45:40.165530+00:00",
+    "context": {
+      "id": "01K1BYY04R6MV1N8GV9QNY9Q34",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_6",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 6",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-29T20:45:40.403610+00:00",
+    "last_reported": "2025-07-29T20:45:40.403610+00:00",
+    "last_updated": "2025-07-29T20:45:40.403610+00:00",
+    "context": {
+      "id": "01K1BYY04R6MV1N8GV9QNY9Q34",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_9",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 9",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-28T18:14:28.826425+00:00",
+    "last_reported": "2025-07-28T18:14:40.527475+00:00",
+    "last_updated": "2025-07-28T18:14:28.826425+00:00",
+    "context": {
+      "id": "01K193WGPTSSW2KS8K6YVY4JBV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_1",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 1",
+      "supported_features": 53
+    },
+    "last_changed": "2025-08-03T01:33:30.083557+00:00",
+    "last_reported": "2025-08-03T01:33:30.083557+00:00",
+    "last_updated": "2025-08-03T01:33:30.083557+00:00",
+    "context": {
+      "id": "01K1PRZYVFP1M6HPT9AF4ZT67R",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_8",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 8",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-28T18:14:28.826684+00:00",
+    "last_reported": "2025-07-28T18:14:39.994450+00:00",
+    "last_updated": "2025-07-28T18:14:28.826684+00:00",
+    "context": {
+      "id": "01K193WGPT9V1KFTXR4TNKK3Z7",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_3",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 3",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-29T20:45:40.723017+00:00",
+    "last_reported": "2025-07-29T20:45:40.723017+00:00",
+    "last_updated": "2025-07-29T20:45:40.723017+00:00",
+    "context": {
+      "id": "01K1BYY04R6MV1N8GV9QNY9Q34",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_10",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 10",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-28T18:14:28.826910+00:00",
+    "last_reported": "2025-07-28T18:14:40.609417+00:00",
+    "last_updated": "2025-07-28T18:14:28.826910+00:00",
+    "context": {
+      "id": "01K193WGPT501KX96C2CQFKJ36",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "fan.out_fan_7",
+    "state": "off",
+    "attributes": {
+      "preset_modes": null,
+      "direction": "forward",
+      "percentage": 0,
+      "percentage_step": 16.666666666666668,
+      "preset_mode": null,
+      "assumed_state": true,
+      "friendly_name": "Out Fan 7",
+      "supported_features": 53
+    },
+    "last_changed": "2025-07-28T18:14:28.827020+00:00",
+    "last_reported": "2025-07-28T18:14:40.174776+00:00",
+    "last_updated": "2025-07-28T18:14:28.827020+00:00",
+    "context": {
+      "id": "01K193WGPVCRK6787DH4DVSB9N",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.egc_open_shade",
+    "state": "unavailable",
+    "attributes": {
+      "restored": true,
+      "friendly_name": "egc_open_shade",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:28.828959+00:00",
+    "last_reported": "2025-07-28T18:14:28.828959+00:00",
+    "last_updated": "2025-07-28T18:14:28.828959+00:00",
+    "context": {
+      "id": "01K193WGPW146BJ4AV90A8ESGK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.script",
+    "state": "unavailable",
+    "attributes": {
+      "restored": true,
+      "friendly_name": "script",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:28.828980+00:00",
+    "last_reported": "2025-07-28T18:14:28.828980+00:00",
+    "last_updated": "2025-07-28T18:14:28.828980+00:00",
+    "context": {
+      "id": "01K193WGPW86HV72HS45DK57YY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.example_script",
+    "state": "unavailable",
+    "attributes": {
+      "restored": true,
+      "friendly_name": "example_script",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:28.828991+00:00",
+    "last_reported": "2025-07-28T18:14:28.828991+00:00",
+    "last_updated": "2025-07-28T18:14:28.828991+00:00",
+    "context": {
+      "id": "01K193WGPW5HPH62TM22BEEWNW",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.test_light_off",
+    "state": "unavailable",
+    "attributes": {
+      "restored": true,
+      "friendly_name": "Test light off",
+      "supported_features": 0
+    },
+    "last_changed": "2025-07-28T18:14:28.828998+00:00",
+    "last_reported": "2025-07-28T18:14:28.828998+00:00",
+    "last_updated": "2025-07-28T18:14:28.828998+00:00",
+    "context": {
+      "id": "01K193WGPWVTJMR7M7TNPVKQAQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.cutlass_lanai_audio_input_format",
+    "state": "No input",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Audio input format"
+    },
+    "last_changed": "2025-07-31T07:04:51.469455+00:00",
+    "last_reported": "2025-07-31T07:04:56.072878+00:00",
+    "last_updated": "2025-07-31T07:04:51.469455+00:00",
+    "context": {
+      "id": "01K1FMRJ0DE0FENB6FG1SB1ESY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "media_player.cutlass_lanai",
+    "state": "paused",
+    "attributes": {
+      "source_list": [
+        "Line-in",
+        "TV"
+      ],
+      "group_members": [
+        "media_player.cutlass_patio_1",
+        "media_player.sonoskristi",
+        "media_player.cutlass_lanai"
+      ],
+      "volume_level": 0.44,
+      "is_volume_muted": false,
+      "media_content_id": "x-sonosapi-hls-static:catalog%2ftracks%2fB07VWDY65V%2f897a8249-54f2-4cde-a187-9a5187b66311%2f574b44f9-d330-4df2-8f3b-409114a6df42%2fA1RMS63MTL8CLF%2fn%2fPRIME%2f9b31255f-5377-4217-a9dd-76907d7532fe%2fPRIME_STATION%2f?sid=201&flags=8&sn=6",
+      "media_content_type": "music",
+      "media_duration": 233,
+      "media_position": 93,
+      "media_position_updated_at": "2025-08-04T18:03:05.390443+00:00",
+      "media_title": "Locked out of Heaven",
+      "media_artist": "Bruno Mars",
+      "media_album_name": "Unorthodox Jukebox [Explicit]",
+      "shuffle": false,
+      "repeat": "off",
+      "queue_position": 4,
+      "queue_size": 4,
+      "device_class": "speaker",
+      "entity_picture": "/api/media_player_proxy/media_player.cutlass_lanai?token=50e995648a8882435f7c96bd6a9587e46b31918a913b6418294d4e335b7f2471&cache=74c82054848165dc",
+      "friendly_name": "Sonos Lanai",
+      "supported_features": 4127295
+    },
+    "last_changed": "2025-08-04T18:03:05.390773+00:00",
+    "last_reported": "2025-08-04T18:08:05.496000+00:00",
+    "last_updated": "2025-08-04T18:08:05.496000+00:00",
+    "context": {
+      "id": "01K1V49VBR9K3BCBWPC3PMAE0Q",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_crossfade",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Crossfade"
+    },
+    "last_changed": "2025-08-02T14:47:13.834270+00:00",
+    "last_reported": "2025-08-02T14:47:13.876616+00:00",
+    "last_updated": "2025-08-02T14:47:13.834270+00:00",
+    "context": {
+      "id": "01K1NM0M5AKRMPS783QA9TN0W0",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_loudness",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Loudness"
+    },
+    "last_changed": "2025-07-31T07:04:51.469617+00:00",
+    "last_reported": "2025-07-31T07:04:51.572953+00:00",
+    "last_updated": "2025-07-31T07:04:51.469617+00:00",
+    "context": {
+      "id": "01K1FMRJ0DMMQ3Y8F77SJDB5AN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_surround_music_full_volume",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Surround music full volume"
+    },
+    "last_changed": "2025-07-31T07:04:51.469630+00:00",
+    "last_reported": "2025-07-31T07:04:51.572958+00:00",
+    "last_updated": "2025-07-31T07:04:51.469630+00:00",
+    "context": {
+      "id": "01K1FMRJ0D001C8GHSM6DHRM0F",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_night_sound",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Night sound"
+    },
+    "last_changed": "2025-07-31T07:04:51.469643+00:00",
+    "last_reported": "2025-07-31T07:04:51.572964+00:00",
+    "last_updated": "2025-07-31T07:04:51.469643+00:00",
+    "context": {
+      "id": "01K1FMRJ0D1X9T1QFX8G2GMSGY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_speech_enhancement",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Speech enhancement"
+    },
+    "last_changed": "2025-07-31T07:04:51.469652+00:00",
+    "last_reported": "2025-07-31T07:04:51.572969+00:00",
+    "last_updated": "2025-07-31T07:04:51.469652+00:00",
+    "context": {
+      "id": "01K1FMRJ0DC4FY6CJ4760F86PV",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_subwoofer_enabled",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Subwoofer enabled"
+    },
+    "last_changed": "2025-07-31T07:04:51.469663+00:00",
+    "last_reported": "2025-07-31T07:04:51.572973+00:00",
+    "last_updated": "2025-07-31T07:04:51.469663+00:00",
+    "context": {
+      "id": "01K1FMRJ0DJ0HMT61T3JTPFDRN",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_lanai_surround_enabled",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Lanai Surround enabled"
+    },
+    "last_changed": "2025-07-31T07:04:51.469672+00:00",
+    "last_reported": "2025-07-31T07:04:51.572978+00:00",
+    "last_updated": "2025-07-31T07:04:51.469672+00:00",
+    "context": {
+      "id": "01K1FMRJ0DAPY8SJX9BQ3HDTMB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.cutlass_patio_1_audio_input_format",
+    "state": "No input",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Audio input format"
+    },
+    "last_changed": "2025-08-02T14:53:55.170789+00:00",
+    "last_reported": "2025-08-02T14:53:55.217999+00:00",
+    "last_updated": "2025-08-02T14:53:55.170789+00:00",
+    "context": {
+      "id": "01K1NMCW32YYY8VPFZF2ND03FQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "media_player.cutlass_patio_1",
+    "state": "paused",
+    "attributes": {
+      "source_list": [
+        "Line-in",
+        "TV"
+      ],
+      "group_members": [
+        "media_player.cutlass_patio_1",
+        "media_player.sonoskristi",
+        "media_player.cutlass_lanai"
+      ],
+      "volume_level": 0.42,
+      "is_volume_muted": false,
+      "media_content_id": "x-sonosapi-hls-static:catalog%2ftracks%2fB07VWDY65V%2f897a8249-54f2-4cde-a187-9a5187b66311%2f574b44f9-d330-4df2-8f3b-409114a6df42%2fA1RMS63MTL8CLF%2fn%2fPRIME%2f9b31255f-5377-4217-a9dd-76907d7532fe%2fPRIME_STATION%2f?sid=201&flags=8&sn=6",
+      "media_content_type": "music",
+      "media_duration": 233,
+      "media_position": 93,
+      "media_position_updated_at": "2025-08-04T18:03:05.390443+00:00",
+      "media_title": "Locked out of Heaven",
+      "media_artist": "Bruno Mars",
+      "media_album_name": "Unorthodox Jukebox [Explicit]",
+      "shuffle": false,
+      "repeat": "off",
+      "queue_position": 4,
+      "queue_size": 4,
+      "device_class": "speaker",
+      "entity_picture": "/api/media_player_proxy/media_player.cutlass_patio_1?token=56eb32ccd9379f19a729afac2b17439246ac5a9da186dfe326e2eb9abb4e9baa&cache=74c82054848165dc",
+      "friendly_name": "Sonos Patio1",
+      "supported_features": 4127295
+    },
+    "last_changed": "2025-08-04T18:03:05.391043+00:00",
+    "last_reported": "2025-08-04T18:08:05.496253+00:00",
+    "last_updated": "2025-08-04T18:08:05.496253+00:00",
+    "context": {
+      "id": "01K1V49VBRH4T815R7EBWWY12P",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_audio_delay",
+    "state": "0",
+    "attributes": {
+      "min": 0,
+      "max": 5,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Audio delay"
+    },
+    "last_changed": "2025-07-31T07:04:51.469701+00:00",
+    "last_reported": "2025-07-31T07:04:51.572987+00:00",
+    "last_updated": "2025-07-31T07:04:51.469701+00:00",
+    "context": {
+      "id": "01K1FMRJ0DNAGVYM9G6CHGFKZD",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_bass",
+    "state": "0",
+    "attributes": {
+      "min": -10,
+      "max": 10,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Bass"
+    },
+    "last_changed": "2025-07-31T07:04:51.469720+00:00",
+    "last_reported": "2025-07-31T07:04:51.572995+00:00",
+    "last_updated": "2025-07-31T07:04:51.469720+00:00",
+    "context": {
+      "id": "01K1FMRJ0DM2QR19X2XB039BAB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_balance",
+    "state": "0",
+    "attributes": {
+      "min": -100,
+      "max": 100,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Balance"
+    },
+    "last_changed": "2025-07-31T07:04:51.469740+00:00",
+    "last_reported": "2025-07-31T07:04:51.573004+00:00",
+    "last_updated": "2025-07-31T07:04:51.469740+00:00",
+    "context": {
+      "id": "01K1FMRJ0D21KWMHE4KN8APJGX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_treble",
+    "state": "0",
+    "attributes": {
+      "min": -10,
+      "max": 10,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Treble"
+    },
+    "last_changed": "2025-07-31T07:04:51.469767+00:00",
+    "last_reported": "2025-07-31T07:04:51.573010+00:00",
+    "last_updated": "2025-07-31T07:04:51.469767+00:00",
+    "context": {
+      "id": "01K1FMRJ0D5JJ4MXAM1N80H795",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_sub_crossover_frequency",
+    "state": "0",
+    "attributes": {
+      "min": 50,
+      "max": 110,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Sub crossover frequency"
+    },
+    "last_changed": "2025-07-31T07:04:51.469781+00:00",
+    "last_reported": "2025-07-31T07:04:51.573016+00:00",
+    "last_updated": "2025-07-31T07:04:51.469781+00:00",
+    "context": {
+      "id": "01K1FMRJ0DYRQSS5DFT8J3VFQJ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_sub_gain",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Sub gain"
+    },
+    "last_changed": "2025-07-31T07:04:51.469797+00:00",
+    "last_reported": "2025-07-31T07:04:51.573022+00:00",
+    "last_updated": "2025-07-31T07:04:51.469797+00:00",
+    "context": {
+      "id": "01K1FMRJ0D5Q6Z8JAPQ0EBNZX0",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_surround_level",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Surround level"
+    },
+    "last_changed": "2025-07-31T07:04:51.469809+00:00",
+    "last_reported": "2025-07-31T07:04:51.573028+00:00",
+    "last_updated": "2025-07-31T07:04:51.469809+00:00",
+    "context": {
+      "id": "01K1FMRJ0D0RECSMEXNHZQ1G0F",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_lanai_music_surround_level",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Lanai Music surround level"
+    },
+    "last_changed": "2025-07-31T07:04:51.469821+00:00",
+    "last_reported": "2025-07-31T07:04:51.573034+00:00",
+    "last_updated": "2025-07-31T07:04:51.469821+00:00",
+    "context": {
+      "id": "01K1FMRJ0DKZA9WVWEAGQQNWWH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_audio_delay",
+    "state": "0",
+    "attributes": {
+      "min": 0,
+      "max": 5,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Audio delay"
+    },
+    "last_changed": "2025-08-02T14:53:55.171468+00:00",
+    "last_reported": "2025-08-02T14:53:55.218400+00:00",
+    "last_updated": "2025-08-02T14:53:55.171468+00:00",
+    "context": {
+      "id": "01K1NMCW337F4PC8XA345QPFZQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_bass",
+    "state": "0",
+    "attributes": {
+      "min": -10,
+      "max": 10,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Bass"
+    },
+    "last_changed": "2025-08-02T14:53:55.171560+00:00",
+    "last_reported": "2025-08-02T14:53:55.218671+00:00",
+    "last_updated": "2025-08-02T14:53:55.171560+00:00",
+    "context": {
+      "id": "01K1NMCW33M1MP3E6XA9HJ0Q46",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_balance",
+    "state": "0",
+    "attributes": {
+      "min": -100,
+      "max": 100,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Balance"
+    },
+    "last_changed": "2025-08-02T14:53:55.171641+00:00",
+    "last_reported": "2025-08-02T14:53:55.218729+00:00",
+    "last_updated": "2025-08-02T14:53:55.171641+00:00",
+    "context": {
+      "id": "01K1NMCW33D3NFERQBBMCRP4QM",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_treble",
+    "state": "0",
+    "attributes": {
+      "min": -10,
+      "max": 10,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Treble"
+    },
+    "last_changed": "2025-08-02T14:53:55.171710+00:00",
+    "last_reported": "2025-08-02T14:53:55.218758+00:00",
+    "last_updated": "2025-08-02T14:53:55.171710+00:00",
+    "context": {
+      "id": "01K1NMCW3353DZE9MQDENNTZ3R",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_sub_crossover_frequency",
+    "state": "0",
+    "attributes": {
+      "min": 50,
+      "max": 110,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Sub crossover frequency"
+    },
+    "last_changed": "2025-08-02T14:53:55.171776+00:00",
+    "last_reported": "2025-08-02T14:53:55.218777+00:00",
+    "last_updated": "2025-08-02T14:53:55.171776+00:00",
+    "context": {
+      "id": "01K1NMCW33JNDCBR1PJKN6N4HR",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_sub_gain",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Sub gain"
+    },
+    "last_changed": "2025-08-02T14:53:55.171840+00:00",
+    "last_reported": "2025-08-02T14:53:55.218794+00:00",
+    "last_updated": "2025-08-02T14:53:55.171840+00:00",
+    "context": {
+      "id": "01K1NMCW33REKNP0GYZ8NCDWGK",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_surround_level",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Surround level"
+    },
+    "last_changed": "2025-08-02T14:53:55.171997+00:00",
+    "last_reported": "2025-08-02T14:53:55.218812+00:00",
+    "last_updated": "2025-08-02T14:53:55.171997+00:00",
+    "context": {
+      "id": "01K1NMCW33V0B3QC5E0EB25KP1",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.cutlass_patio_1_music_surround_level",
+    "state": "0",
+    "attributes": {
+      "min": -15,
+      "max": 15,
+      "step": 1.0,
+      "mode": "auto",
+      "friendly_name": "Cutlass Patio 1 Music surround level"
+    },
+    "last_changed": "2025-08-02T14:53:55.172069+00:00",
+    "last_reported": "2025-08-02T14:53:55.218827+00:00",
+    "last_updated": "2025-08-02T14:53:55.172069+00:00",
+    "context": {
+      "id": "01K1NMCW34DV7FDJT806VFE4JE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_crossfade",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Crossfade"
+    },
+    "last_changed": "2025-08-02T14:53:55.172216+00:00",
+    "last_reported": "2025-08-02T14:53:55.218899+00:00",
+    "last_updated": "2025-08-02T14:53:55.172216+00:00",
+    "context": {
+      "id": "01K1NMCW34FW7F6QP8YSFCB1HC",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_loudness",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Loudness"
+    },
+    "last_changed": "2025-08-02T14:53:55.172281+00:00",
+    "last_reported": "2025-08-02T14:53:55.218921+00:00",
+    "last_updated": "2025-08-02T14:53:55.172281+00:00",
+    "context": {
+      "id": "01K1NMCW34VPPGPG66EBHHMVZC",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_surround_music_full_volume",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Surround music full volume"
+    },
+    "last_changed": "2025-08-02T14:53:55.172342+00:00",
+    "last_reported": "2025-08-02T14:53:55.218934+00:00",
+    "last_updated": "2025-08-02T14:53:55.172342+00:00",
+    "context": {
+      "id": "01K1NMCW34MFFNM386QDKV1F1N",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_night_sound",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Night sound"
+    },
+    "last_changed": "2025-08-02T14:53:55.172395+00:00",
+    "last_reported": "2025-08-02T14:53:55.218946+00:00",
+    "last_updated": "2025-08-02T14:53:55.172395+00:00",
+    "context": {
+      "id": "01K1NMCW34CVVBCXHQ2ZSP5MZH",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_speech_enhancement",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Speech enhancement"
+    },
+    "last_changed": "2025-08-02T14:53:55.172446+00:00",
+    "last_reported": "2025-08-02T14:53:55.218957+00:00",
+    "last_updated": "2025-08-02T14:53:55.172446+00:00",
+    "context": {
+      "id": "01K1NMCW34PYWQD8BXG7G1R6RP",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_subwoofer_enabled",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Subwoofer enabled"
+    },
+    "last_changed": "2025-08-02T14:53:55.172496+00:00",
+    "last_reported": "2025-08-02T14:53:55.218966+00:00",
+    "last_updated": "2025-08-02T14:53:55.172496+00:00",
+    "context": {
+      "id": "01K1NMCW349JX4MSJK7FN09143",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.cutlass_patio_1_surround_enabled",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Cutlass Patio 1 Surround enabled"
+    },
+    "last_changed": "2025-08-02T14:53:55.172545+00:00",
+    "last_reported": "2025-08-02T14:53:55.218975+00:00",
+    "last_updated": "2025-08-02T14:53:55.172545+00:00",
+    "context": {
+      "id": "01K1NMCW34Q94TXV9C0H4JV32W",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.entry_light_if_a_person_is_detected",
+    "state": "on",
+    "attributes": {
+      "id": "1753793678708",
+      "last_triggered": "2025-08-05T13:35:59.274480+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "egc_motion start turn on light"
+    },
+    "last_changed": "2025-08-04T17:51:43.072404+00:00",
+    "last_reported": "2025-08-05T13:35:59.719967+00:00",
+    "last_updated": "2025-08-05T13:35:59.719967+00:00",
+    "context": {
+      "id": "01K1X74AS9D7QFF1XB42XDETMA",
+      "parent_id": "01K1X74AS8VY9CKE9123X22NK2",
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "binary_sensor.rain_bird_controller_rainsensor",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Rain Bird Controller Rainsensor"
+    },
+    "last_changed": "2025-08-04T18:39:29.442038+00:00",
+    "last_reported": "2025-08-04T18:39:29.442038+00:00",
+    "last_updated": "2025-08-04T18:39:29.442038+00:00",
+    "context": {
+      "id": "01K1V63B52CWCEBDKJ112KKVKS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "calendar.rain_bird_controller",
+    "state": "off",
+    "attributes": {
+      "message": "PGM A",
+      "all_day": false,
+      "start_time": "2025-08-06 00:00:00",
+      "end_time": "2025-08-06 02:00:00",
+      "location": "",
+      "description": "",
+      "friendly_name": "Rain Bird Controller"
+    },
+    "last_changed": "2025-08-05T06:00:00.013220+00:00",
+    "last_reported": "2025-08-05T06:00:00.013220+00:00",
+    "last_updated": "2025-08-05T06:00:00.013220+00:00",
+    "context": {
+      "id": "01K1WD1CRDG9HD7N6WWH4MBSMG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "number.rain_bird_controller_rain_delay",
+    "state": "0",
+    "attributes": {
+      "min": 0,
+      "max": 14,
+      "step": 1,
+      "mode": "auto",
+      "unit_of_measurement": "d",
+      "friendly_name": "Rain Bird Controller Rain delay"
+    },
+    "last_changed": "2025-08-04T18:39:29.442349+00:00",
+    "last_reported": "2025-08-04T18:39:29.442349+00:00",
+    "last_updated": "2025-08-04T18:39:29.442349+00:00",
+    "context": {
+      "id": "01K1V63B52J869GX2KRG4P0063",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.rain_bird_controller_raindelay",
+    "state": "0",
+    "attributes": {
+      "friendly_name": "Rain Bird Controller Raindelay"
+    },
+    "last_changed": "2025-08-04T18:39:29.442713+00:00",
+    "last_reported": "2025-08-04T18:39:29.442713+00:00",
+    "last_updated": "2025-08-04T18:39:29.442713+00:00",
+    "context": {
+      "id": "01K1V63B52TNN7953929ESWZHY",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.1_front_right_rental",
+    "state": "off",
+    "attributes": {
+      "zone": 1,
+      "friendly_name": "Sprinkler Zone1 Front Right Rental"
+    },
+    "last_changed": "2025-08-05T04:20:28.335182+00:00",
+    "last_reported": "2025-08-05T04:20:28.335182+00:00",
+    "last_updated": "2025-08-05T04:20:28.335182+00:00",
+    "context": {
+      "id": "01K1W7B51F5JTFF9ZBBGXFZ2ZZ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.2_front_center",
+    "state": "off",
+    "attributes": {
+      "zone": 2,
+      "friendly_name": "Sprinkler Zone2 Front Center"
+    },
+    "last_changed": "2025-08-05T04:40:32.219638+00:00",
+    "last_reported": "2025-08-05T04:40:32.219638+00:00",
+    "last_updated": "2025-08-05T04:40:32.219638+00:00",
+    "context": {
+      "id": "01K1W8FWPVTGPD58H9P1HH0YC8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.3_front_left_sw",
+    "state": "off",
+    "attributes": {
+      "zone": 3,
+      "friendly_name": "Sprinkler Zone3 Front Left SW"
+    },
+    "last_changed": "2025-08-05T05:00:33.663025+00:00",
+    "last_reported": "2025-08-05T05:00:33.663025+00:00",
+    "last_updated": "2025-08-05T05:00:33.663025+00:00",
+    "context": {
+      "id": "01K1W9MHZZ4RMCPS37WE3XJWQS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.4_rear_right_sw",
+    "state": "off",
+    "attributes": {
+      "zone": 4,
+      "friendly_name": "Sprinkler Zone4 Rear Right SW"
+    },
+    "last_changed": "2025-08-05T05:21:06.342678+00:00",
+    "last_reported": "2025-08-05T05:21:06.342678+00:00",
+    "last_updated": "2025-08-05T05:21:06.342678+00:00",
+    "context": {
+      "id": "01K1WAT5S62N7GD9K2MQK58R6K",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.5_rear_center",
+    "state": "off",
+    "attributes": {
+      "zone": 5,
+      "friendly_name": "Sprinkler Zone5 Rear Center"
+    },
+    "last_changed": "2025-08-05T05:40:14.561076+00:00",
+    "last_reported": "2025-08-05T05:40:14.561076+00:00",
+    "last_updated": "2025-08-05T05:40:14.561076+00:00",
+    "context": {
+      "id": "01K1WBX731A1WFR2VTXEP9G5P5",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.6_rear_right_rental",
+    "state": "off",
+    "attributes": {
+      "zone": 6,
+      "friendly_name": "Sprinkler Zone6 Rear Right Rental"
+    },
+    "last_changed": "2025-08-05T06:00:19.099166+00:00",
+    "last_reported": "2025-08-05T06:00:19.099166+00:00",
+    "last_updated": "2025-08-05T06:00:19.099166+00:00",
+    "context": {
+      "id": "01K1WD1ZCVRPMKS4ARXPDJ99DB",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.rain_bird_sprinkler_7_not_used",
+    "state": "off",
+    "attributes": {
+      "zone": 7,
+      "friendly_name": "Sprinkler Zone7 - not used"
+    },
+    "last_changed": "2025-08-04T18:39:29.442981+00:00",
+    "last_reported": "2025-08-04T18:39:29.442981+00:00",
+    "last_updated": "2025-08-04T18:39:29.442981+00:00",
+    "context": {
+      "id": "01K1V63B52814F8X6SS0SQ5YKG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "switch.rain_bird_sprinkler_8_not_used",
+    "state": "off",
+    "attributes": {
+      "zone": 8,
+      "friendly_name": "Sprinkler Zone8 - not used"
+    },
+    "last_changed": "2025-08-04T18:39:29.443004+00:00",
+    "last_reported": "2025-08-04T18:39:29.443004+00:00",
+    "last_updated": "2025-08-04T18:39:29.443004+00:00",
+    "context": {
+      "id": "01K1V63B53VYE79KJZFFMP8VC8",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio2_open_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-open",
+      "friendly_name": "Patio2 Shades Open"
+    },
+    "last_changed": "2025-07-29T20:16:37.719334+00:00",
+    "last_reported": "2025-07-29T20:16:37.719334+00:00",
+    "last_updated": "2025-07-29T20:16:37.719334+00:00",
+    "context": {
+      "id": "01K1BX8WTQJK21QQCYZW51P7DW",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio2_close_shades",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-closed",
+      "friendly_name": "Patio2 Shades Close"
+    },
+    "last_changed": "2025-07-29T20:16:14.637767+00:00",
+    "last_reported": "2025-07-29T20:16:14.637767+00:00",
+    "last_updated": "2025-07-29T20:16:14.637767+00:00",
+    "context": {
+      "id": "01K1BX869DYPD7TRHMNQDVCKT2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio1_fans_on",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-07-29T20:45:01.778862+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:ceiling-fan",
+      "friendly_name": "Patio1 Fans On"
+    },
+    "last_changed": "2025-07-29T20:45:02.995220+00:00",
+    "last_reported": "2025-07-29T20:45:02.995220+00:00",
+    "last_updated": "2025-07-29T20:45:02.995220+00:00",
+    "context": {
+      "id": "01K1BYWWYHXCEXVAJC4347W3AX",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "script.lanai_shades_close",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-closed",
+      "friendly_name": "Lanai Shades Close"
+    },
+    "last_changed": "2025-07-29T20:18:22.043585+00:00",
+    "last_reported": "2025-07-29T20:18:22.043704+00:00",
+    "last_updated": "2025-07-29T20:18:22.043585+00:00",
+    "context": {
+      "id": "01K1BXC2PV29XE06V8M2V2Q39M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.lanai_shades_open",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-03T17:42:58.436008+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:roller-shade-closed",
+      "friendly_name": "Lanai Shades Open"
+    },
+    "last_changed": "2025-08-03T17:42:59.126802+00:00",
+    "last_reported": "2025-08-03T17:42:59.126802+00:00",
+    "last_updated": "2025-08-03T17:42:59.126802+00:00",
+    "context": {
+      "id": "01K1RGF4M39V2PB5X7QPGNPTJT",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "script.patio2_fans_off",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:ceiling-fan",
+      "friendly_name": "Patio2 Fans Off"
+    },
+    "last_changed": "2025-07-29T20:20:12.919181+00:00",
+    "last_reported": "2025-07-29T20:20:12.919344+00:00",
+    "last_updated": "2025-07-29T20:20:12.919181+00:00",
+    "context": {
+      "id": "01K1BXFEZQ8W3QSEBV4A34XGFW",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio2_fans_on",
+    "state": "off",
+    "attributes": {
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:ceiling-fan",
+      "friendly_name": "Patio2 Fans On"
+    },
+    "last_changed": "2025-07-29T20:20:50.276810+00:00",
+    "last_reported": "2025-07-29T20:20:50.276933+00:00",
+    "last_updated": "2025-07-29T20:20:50.276810+00:00",
+    "context": {
+      "id": "01K1BXGKF4Y9GSNPHRGSEV649B",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "script.patio1_fans_off",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2025-08-04T18:03:04.196263+00:00",
+      "mode": "single",
+      "current": 0,
+      "icon": "mdi:ceiling-fan",
+      "friendly_name": "Patio1 Fans Off"
+    },
+    "last_changed": "2025-08-04T18:03:05.303112+00:00",
+    "last_reported": "2025-08-04T18:03:05.303112+00:00",
+    "last_updated": "2025-08-04T18:03:05.303112+00:00",
+    "context": {
+      "id": "01K1V40KPWFYX22KX27RR0AANQ",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_7",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Patio1 Center Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-30T19:14:24.668021+00:00",
+    "last_reported": "2025-07-30T19:14:24.668021+00:00",
+    "last_updated": "2025-07-30T19:14:24.668021+00:00",
+    "context": {
+      "id": "01K1EC3P8WMBV078KAM19G90NM",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_7",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Patio1 Center Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-30T19:14:24.667837+00:00",
+    "last_reported": "2025-07-30T19:14:24.667837+00:00",
+    "last_updated": "2025-07-30T19:14:24.667837+00:00",
+    "context": {
+      "id": "01K1EC3P8VZS5F3T30P99DCW2M",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "select.smart_wi_fi_switch_power_on_behavior_on_startup_8",
+    "state": "previous",
+    "attributes": {
+      "options": [
+        "on",
+        "off",
+        "toggle",
+        "previous"
+      ],
+      "friendly_name": "Patio1 ODK Light Power-on behavior on startup"
+    },
+    "last_changed": "2025-07-30T19:13:26.080020+00:00",
+    "last_reported": "2025-07-30T19:28:46.370580+00:00",
+    "last_updated": "2025-07-30T19:28:46.370580+00:00",
+    "context": {
+      "id": "01K1ECXZS2T6V7HKQZS5N9C2X2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "update.smart_wi_fi_switch_firmware_8",
+    "state": "off",
+    "attributes": {
+      "auto_update": false,
+      "display_precision": 0,
+      "installed_version": "1.0.0",
+      "in_progress": false,
+      "latest_version": "1.0.0",
+      "release_summary": null,
+      "release_url": null,
+      "skipped_version": null,
+      "title": null,
+      "update_percentage": null,
+      "device_class": "firmware",
+      "friendly_name": "Patio1 ODK Light Firmware",
+      "supported_features": 23
+    },
+    "last_changed": "2025-07-30T19:13:26.079691+00:00",
+    "last_reported": "2025-07-30T19:28:46.369896+00:00",
+    "last_updated": "2025-07-30T19:28:46.369896+00:00",
+    "context": {
+      "id": "01K1ECXZS1FC1M8SDJS7W7XAD0",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.patio1_lights_on",
+    "state": "on",
+    "attributes": {
+      "id": "1753907630377",
+      "last_triggered": "2025-08-04T13:59:47.726371+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Patio1 Lights On"
+    },
+    "last_changed": "2025-08-02T20:00:45.261212+00:00",
+    "last_reported": "2025-08-04T13:59:47.764494+00:00",
+    "last_updated": "2025-08-04T13:59:47.764494+00:00",
+    "context": {
+      "id": "01K1TP36RDW24NWMHHQ381KP05",
+      "parent_id": "01K1TP36RD56MTT3ATF3SHSV4T",
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.patio1_light_of",
+    "state": "on",
+    "attributes": {
+      "id": "1753907745870",
+      "last_triggered": "2025-08-04T14:26:21.695281+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Patio1 Light Off"
+    },
+    "last_changed": "2025-08-02T20:02:33.749568+00:00",
+    "last_reported": "2025-08-04T14:26:21.832083+00:00",
+    "last_updated": "2025-08-04T14:26:21.832083+00:00",
+    "context": {
+      "id": "01K1TQKVBZSPAVV9XWPE3JZW01",
+      "parent_id": "01K1TQKVBYMYJS59RK3Q8PC6N3",
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "automation.5oclock_somewhere",
+    "state": "on",
+    "attributes": {
+      "id": "1753972576630",
+      "last_triggered": "2025-08-05T21:03:27.882659+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "5-Oclock Somewhere"
+    },
+    "last_changed": "2025-07-31T14:39:11.156946+00:00",
+    "last_reported": "2025-08-05T21:03:27.905903+00:00",
+    "last_updated": "2025-08-05T21:03:27.905903+00:00",
+    "context": {
+      "id": "01K1Y0QP49C2DZ05B0XRX6SQY5",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_watch_battery_level",
+    "state": "65",
+    "attributes": {
+      "unit_of_measurement": "%",
+      "device_class": "battery",
+      "icon": "mdi:battery-60",
+      "friendly_name": "SirSmartPig2023 Watch Battery Level"
+    },
+    "last_changed": "2025-08-04T18:02:56.208422+00:00",
+    "last_reported": "2025-08-04T18:02:56.638232+00:00",
+    "last_updated": "2025-08-04T18:02:56.208422+00:00",
+    "context": {
+      "id": "01K1V40DAGSJ3BA96SCYB0EQQJ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.sirsmartpig2023_watch_battery_state",
+    "state": "Not Charging",
+    "attributes": {
+      "icon": "mdi:battery-60",
+      "friendly_name": "SirSmartPig2023 Watch Battery State"
+    },
+    "last_changed": "2025-07-31T16:53:40.273318+00:00",
+    "last_reported": "2025-08-04T18:02:56.638317+00:00",
+    "last_updated": "2025-08-04T18:02:56.208552+00:00",
+    "context": {
+      "id": "01K1V40DAGKQ6VZ8Y4WYB5B6JX",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_entry_main_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Entry Main Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T13:36:23.596040+00:00",
+    "last_reported": "2025-08-05T13:36:23.596266+00:00",
+    "last_updated": "2025-08-05T13:36:23.596040+00:00",
+    "context": {
+      "id": "01K1X752FDSKR0AV9J92ZQNHMS",
+      "parent_id": "01K1X752FCVRZQE0P5K84WE445",
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_flood_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Flood Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:56:36.157380+00:00",
+    "last_reported": "2025-08-04T14:56:36.157876+00:00",
+    "last_updated": "2025-08-04T14:56:36.157380+00:00",
+    "context": {
+      "id": "01K1TSB76J9WBJ2HSF2WV4CFCX",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "light.switch_front_lights",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Front Carriage Lights",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T10:58:53.538159+00:00",
+    "last_reported": "2025-08-05T10:58:53.538324+00:00",
+    "last_updated": "2025-08-05T10:58:53.538159+00:00",
+    "context": {
+      "id": "01K1WY4NWASTE8DKR44KR54EY3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_chandelier_entry_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Chandelier Entry Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:56:40.325019+00:00",
+    "last_reported": "2025-08-04T14:56:40.325362+00:00",
+    "last_updated": "2025-08-04T14:56:40.325019+00:00",
+    "context": {
+      "id": "01K1TSBB9T49X08SAAE5CAPG5Z",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "light.switch_lanai_ceiling_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Lanai Ceiling Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-01T19:18:19.967564+00:00",
+    "last_reported": "2025-08-01T19:18:19.967564+00:00",
+    "last_updated": "2025-08-01T19:18:19.967564+00:00",
+    "context": {
+      "id": "01K1KH4A1ZKSJK3885Q2D5011V",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_backyard_carriage_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Backyard Carriage Lights",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T01:33:28.873252+00:00",
+    "last_reported": "2025-08-05T01:33:28.873435+00:00",
+    "last_updated": "2025-08-05T01:33:28.873252+00:00",
+    "context": {
+      "id": "01K1VXSCA4R3P1Y3CTM1HZJBGE",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_rear_left_entry_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Rear Left Entry Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T10:58:53.536102+00:00",
+    "last_reported": "2025-08-05T10:58:53.536250+00:00",
+    "last_updated": "2025-08-05T10:58:53.536102+00:00",
+    "context": {
+      "id": "01K1WY4NWASTE8DKR44KR54EY3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_rear_right_entry_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Rear Right Entry Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T10:58:53.533834+00:00",
+    "last_reported": "2025-08-05T10:58:53.534073+00:00",
+    "last_updated": "2025-08-05T10:58:53.533834+00:00",
+    "context": {
+      "id": "01K1WY4NWASTE8DKR44KR54EY3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_garage_kristi_room_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Garage Kristi Room Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T18:05:51.813194+00:00",
+    "last_reported": "2025-08-04T18:05:51.813437+00:00",
+    "last_updated": "2025-08-04T18:05:51.813194+00:00",
+    "context": {
+      "id": "01K1V45RT5YAKB59FMCN5D2575",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_garage_scubaroom_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Garage ScubaRoom Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T18:05:31.788535+00:00",
+    "last_reported": "2025-08-04T18:05:31.788886+00:00",
+    "last_updated": "2025-08-04T18:05:31.788535+00:00",
+    "context": {
+      "id": "01K1V4558C71BW246BFXESZYQA",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_patio1_sw_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Patio1 SW Lights",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:26:19.992404+00:00",
+    "last_reported": "2025-08-04T14:26:19.992630+00:00",
+    "last_updated": "2025-08-04T14:26:19.992404+00:00",
+    "context": {
+      "id": "01K1TQKSPRC35VWBT8R9DYC9PJ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_kitchen_counter_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Kitchen Counter Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:20:23.805694+00:00",
+    "last_reported": "2025-08-04T14:20:23.805996+00:00",
+    "last_updated": "2025-08-04T14:20:23.805694+00:00",
+    "context": {
+      "id": "01K1TQ8XVXGG3VRY96QMG52EZ3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_kitchen_main_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Kitchen Main Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:20:28.961271+00:00",
+    "last_reported": "2025-08-04T14:20:28.961579+00:00",
+    "last_updated": "2025-08-04T14:20:28.961271+00:00",
+    "context": {
+      "id": "01K1TQ92X1SDZFZ0968S30FMW2",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.switch_kitchen_island_light",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": "onoff",
+      "friendly_name": "Kitchen Island Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-05T21:03:27.981093+00:00",
+    "last_reported": "2025-08-05T21:03:27.981532+00:00",
+    "last_updated": "2025-08-05T21:03:27.981093+00:00",
+    "context": {
+      "id": "01K1Y0QP49C2DZ05B0XRX6SQY5",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.patio1_center_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Patio1 Center Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:26:21.694217+00:00",
+    "last_reported": "2025-08-04T14:26:21.694826+00:00",
+    "last_updated": "2025-08-04T14:26:21.694217+00:00",
+    "context": {
+      "id": "01K1TQKVBYMYJS59RK3Q8PC6N3",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.patio1_odk_light",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "friendly_name": "Patio1 ODK Light",
+      "supported_features": 0
+    },
+    "last_changed": "2025-08-04T14:26:08.558006+00:00",
+    "last_reported": "2025-08-04T14:26:08.558685+00:00",
+    "last_updated": "2025-08-04T14:26:08.558006+00:00",
+    "context": {
+      "id": "01K1TQKEHEPGSQ6TBW731WPFVG",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "light.egc_motion",
+    "state": "off",
+    "attributes": {},
+    "last_changed": "2025-08-05T13:36:23.532384+00:00",
+    "last_reported": "2025-08-05T13:36:23.532384+00:00",
+    "last_updated": "2025-08-05T13:36:23.532384+00:00",
+    "context": {
+      "id": "01K1X752FCVRZQE0P5K84WE445",
+      "parent_id": null,
+      "user_id": "827458824cbe4cb7ad86d02e1907bd26"
+    }
+  },
+  {
+    "entity_id": "automation.egc_montion_done_turn_off_light",
+    "state": "on",
+    "attributes": {
+      "id": "1754329849708",
+      "last_triggered": "2025-08-05T13:36:23.533185+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "egc_montion Done - turn off light"
+    },
+    "last_changed": "2025-08-04T17:54:17.127062+00:00",
+    "last_reported": "2025-08-05T13:36:23.552246+00:00",
+    "last_updated": "2025-08-05T13:36:23.552246+00:00",
+    "context": {
+      "id": "01K1X752FDSKR0AV9J92ZQNHMS",
+      "parent_id": "01K1X752FCVRZQE0P5K84WE445",
+      "user_id": null
+    }
+  }
+]
