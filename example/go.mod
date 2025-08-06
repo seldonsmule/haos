@@ -1,11 +1,9 @@
 module github.com/seldonsmule/haos/example
 
-replace github.com/seldonsmule/haos => /Users/rxe789/dev/golang/src/github.com/seldonsmule/haos
-
 go 1.23.11
 
 require (
-	github.com/seldonsmule/haos v0.0.0-00010101000000-000000000000
+	github.com/seldonsmule/haos v0.0.0-20250806192143-e920834c7c40
 	github.com/seldonsmule/logmsg v0.0.0-20241003160416-31459cf370a7
 	github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380
 )
