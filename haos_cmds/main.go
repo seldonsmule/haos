@@ -80,6 +80,10 @@ func help(){
   fmt.Println("      set_entity_state_on - Sets a known entity's state to on")
   fmt.Println()
   fmt.Println("      set_entity_state_off - Sets a known entity's state to off")
+  fmt.Println()
+  fmt.Println("      trigger_automation - Run an HAOS automation")
+  fmt.Println("        -entity name of the automation")
+  fmt.Println()
 
 
 
@@ -160,6 +164,13 @@ func main(){
      //un.SetApiKey(gMyConf.API_KEY)
      un.ListSitesIDs()
 */
+
+    case "trigger_automation":
+      fmt.Printf("Triggering automation [%s]\n", *entityPtr)
+
+      if(!ha.AutomationTrigger(*entityPtr)){
+        fmt.Printf("Automation Trigger [%s] failed\n", *entityPtr)
+      }
 
     case "get_entity_state":
       if(ha.GetEntityState(*entityPtr, false)){

@@ -1,8 +1,6 @@
 module github.com/seldonsmule/haos
 
-go 1.23.2
-
-toolchain go1.23.11
+go 1.23.3
 
 require (
 	github.com/seldonsmule/logmsg v0.0.0-20241003160416-31459cf370a7

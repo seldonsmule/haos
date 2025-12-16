@@ -97,6 +97,47 @@ func (pHa *Haos) SetEntityState(sEntity string, sNewState string) bool{
   return true
 }
 
+func (pHa *Haos) AutomationTrigger(sAutomation string) bool{
+
+  msg := fmt.Sprintf("POST automation trigger for [%s]", sAutomation)
+  logmsg.Print(logmsg.Info, msg)
+
+  endpointname := pHa.sBaseEndpoint + "/services/automation/trigger"
+  
+  logmsg.Print(logmsg.Info, "URL: " + endpointname)
+  
+  jsondata := fmt.Sprintf("{\"entity_id\" : \"automation.%s\" }", sAutomation)
+
+  logmsg.Print(logmsg.Info, "jsondata: " + jsondata)
+
+  r := restapi.NewPost("automationtrigger", endpointname)
+
+  r.SetBearerAccessToken(pHa.sToken)
+
+  r.SetPostJson(jsondata)
+
+  restapi.TurnOffCertValidation()
+
+  r.JsonOnly()
+
+  //r.Dump()
+
+  //r.DebugOn()
+
+
+  if(!r.Send()){
+    msg := fmt.Sprintf("Error getting [%s]\n", endpointname)
+    //fmt.Printf("Error sending: %s\n", msg)
+    logmsg.Print(logmsg.Error, msg)
+    return false
+  }
+
+  logmsg.Print(logmsg.Info,r.BodyString)
+
+
+  return true
+}
+
 func (pHa *Haos) GetEntityState(sEntity string, bSave bool) bool{
 
   endpointname := pHa.sBaseEndpoint + "/states/" + sEntity

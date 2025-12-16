@@ -1,9 +1,9 @@
-module github.com/seldonsmule/haos/haos_chgstates
+module github.com/seldonsmule/haos/haos_cmds
 
-go 1.23.11
+go 1.23.3
 
 require (
-	github.com/seldonsmule/haos v0.0.0-20250806192143-e920834c7c40
+	github.com/seldonsmule/haos v0.0.0-20250806193122-b7987dfd317a
 	github.com/seldonsmule/logmsg v0.0.0-20241003160416-31459cf370a7
 	github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380
 )
