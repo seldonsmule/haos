@@ -1,9 +1,9 @@
 module github.com/seldonsmule/haos/haos_cmds
 
-go 1.23.3
+go 1.24.11
 
 require (
-	github.com/seldonsmule/haos v0.0.0-20250806193122-b7987dfd317a
+	github.com/seldonsmule/haos v0.0.0-20251216212847-1001f0efdc3f
 	github.com/seldonsmule/logmsg v0.0.0-20241003160416-31459cf370a7
 	github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380
 )
