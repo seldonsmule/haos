@@ -104,7 +104,7 @@ func main(){
 
   fmt.Printf("cmd=%s\n", *cmdPtr)
 
-  logmsg.SetLogFile("haos_chgstates.log");
+  logmsg.SetLogFile("haos_cmds.log");
 
   logmsg.Print(logmsg.Info, "cmdPtr = ", *cmdPtr)
   logmsg.Print(logmsg.Info, "apikeyPtr = ", *apikeyPtr)
